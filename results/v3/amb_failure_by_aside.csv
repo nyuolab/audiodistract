@@ -1,0 +1,28 @@
+model,distractor,aside_class,n,misattributed,acted_on,recorded_only,incorporated
+Claude Fable 5.1,bystander,non-relative,327,0.00917431,0.0183486,0.571865,0.605505
+Claude Fable 5.1,bystander,relative,249,0.00401606,0.0120482,0.606426,0.626506
+Claude Fable 5.1,nonliteral,nonliteral,576,0.0329861,0.00520833,0.350694,0.388889
+Claude Opus 5,bystander,non-relative,327,0.0275229,0.088685,0.626911,0.752294
+Claude Opus 5,bystander,relative,249,0.00803213,0.100402,0.670683,0.779116
+Claude Opus 5,nonliteral,nonliteral,576,0.0729167,0.0190972,0.484375,0.588542
+GPT-5.4,bystander,non-relative,327,0.0030581,0.00917431,0.143731,0.159021
+GPT-5.4,bystander,relative,249,0.00401606,0,0.148594,0.15261
+GPT-5.4,nonliteral,nonliteral,576,0.00173611,0,0.0190972,0.0225694
+GPT-5.6 Sol,bystander,non-relative,327,0.00917431,0,0.214067,0.229358
+GPT-5.6 Sol,bystander,relative,249,0.0200803,0,0.184739,0.208835
+GPT-5.6 Sol,nonliteral,nonliteral,576,0.00520833,0,0.0347222,0.0434028
+Gemma-2-9B,bystander,non-relative,327,0.0978593,0.0336391,0.40367,0.550459
+Gemma-2-9B,bystander,relative,249,0.0843373,0.0160643,0.365462,0.481928
+Gemma-2-9B,nonliteral,nonliteral,576,0.140625,0.00173611,0.114583,0.256944
+Llama-3.1-8B,bystander,non-relative,327,0.269113,0.0397554,0.24159,0.553517
+Llama-3.1-8B,bystander,relative,249,0.277108,0.0481928,0.240964,0.578313
+Llama-3.1-8B,nonliteral,nonliteral,576,0.227431,0.00347222,0.121528,0.359375
+Mistral-7B,bystander,non-relative,327,0.351682,0.122324,0.146789,0.623853
+Mistral-7B,bystander,relative,249,0.236948,0.0963855,0.204819,0.550201
+Mistral-7B,nonliteral,nonliteral,576,0.359375,0.0121528,0.0972222,0.472222
+Qwen2.5-7B,bystander,non-relative,327,0.348624,0.110092,0.220183,0.685015
+Qwen2.5-7B,bystander,relative,249,0.257028,0.140562,0.285141,0.686747
+Qwen2.5-7B,nonliteral,nonliteral,576,0.350694,0.00520833,0.199653,0.557292
+all,bystander,non-relative,2616,0.139526,0.0527523,0.321101,0.519878
+all,bystander,relative,1992,0.111446,0.0517068,0.338353,0.508032
+all,nonliteral,nonliteral,4608,0.148872,0.00585938,0.177734,0.336155

@@ -1,0 +1,70 @@
+paths:
+  data_dir: data
+  results_dir: results
+  raw_dir: results/raw
+  figures_dir: figures
+  work_dir: outputs
+mechanism:
+  models:
+  - meta-llama/Llama-3.1-8B-Instruct
+  - Qwen/Qwen2.5-7B-Instruct
+  - mistralai/Mistral-7B-Instruct-v0.3
+  - google/gemma-2-9b-it
+  revisions:
+    meta-llama/Llama-3.1-8B-Instruct: 0e9e39f249a16976918f6564b8830bc894c89659
+    Qwen/Qwen2.5-7B-Instruct: a09a35458c702b33eeacc393d103063234e8bc28
+    mistralai/Mistral-7B-Instruct-v0.3: c170c708c41dac9275d15a8fff4eca08d52bab71
+    google/gemma-2-9b-it: 11c9b309abf73637e4b6f9a3fa1e92e615547819
+  split_seed: 0
+  validation_fraction: 0.1
+  cchg:
+    seed: 0
+    num_updates: 500
+    batch_size: 4
+    grad_accum: 4
+    lr: 0.01
+    lr_end: 0.001
+    l1_weight: 5.0
+    gate_threshold: 0.5
+    max_seq_length: 512
+    grad_clip: 1.0
+    logit_clamp: 6.0
+  static_frontier_scales:
+  - 1.0
+  - 0.75
+  - 0.5
+  - 0.25
+  - 0.0
+ambient:
+  distractor_model: gpt-5.4
+  contamination_judge_model: claude-sonnet-5
+  quality_judge_model: gpt-5.4
+  note_max_new_tokens: 1024
+  note_batch_size: 2
+  bootstrap_samples: 2000
+meddistractqa:
+  hf_dataset: GBaker/MedQA-USMLE-4-options
+  generation_model: gpt-4o
+  generation_temperature: 0.6
+  eval_temperature: 0.0
+  eval_max_tokens: 8000
+audio:
+  repo_url: https://github.com/babylonhealth/primock57.git
+  seed: 0
+  donors_per_consultation: 2
+  segment_seconds:
+  - 5
+  - 15
+  onset_fraction:
+  - 0.2
+  - 0.8
+  levels_db:
+  - -20
+  - -15
+  - -10
+  - -5
+  peak: 0.95
+  sample_rate: 16000
+  whisper_model: openai/whisper-large-v3
+  whisper_chunk_length_s: 30
+  note_max_new_tokens: 512

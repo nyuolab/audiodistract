@@ -1,0 +1,9 @@
+model,model_short,distractor,seeds,n_seeds,total_heads,heads_mean,heads_min,heads_max,pairwise_jaccard_mean,pairwise_jaccard_min,pairwise_jaccard_max,intersection,union,published_heads,jaccard_published_mean,jaccard_published_min,jaccard_published_max,jaccard_published_seed0,jaccard_published_seed1,jaccard_published_seed2,jaccard_published_seed3,published_recovered_ge2,published_recovered_ge2_frac
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,nonliteral,"0,1,2,3",4,1024,18.25,17,19,0.921442,0.894737,0.947368,17,20,17,0.93348,0.894737,1,1,0.894737,0.944444,0.894737,17,1
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,bystander,"0,1,2,3",4,1024,15,11,18,0.762949,0.611111,0.888889,11,18,15,0.847549,0.733333,1,1,0.823529,0.733333,0.833333,15,1
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,nonliteral,"0,1,2,3",4,784,57.75,53,62,0.486199,0.405063,0.643836,25,100,58,0.629373,0.432099,1,1,0.643836,0.432099,0.441558,50,0.862069
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,bystander,"0,1,2,3",4,784,59.25,56,61,0.540872,0.440476,0.613333,32,96,56,0.658246,0.526316,1,1,0.526316,0.56,0.546667,52,0.928571
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,nonliteral,"0,1,2,3",4,1024,154.25,143,167,0.739643,0.650273,0.821229,112,196,143,0.780561,0.650273,1,1,0.796296,0.675676,0.650273,136,0.951049
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,bystander,"0,1,2,3",4,1024,155.5,153,160,0.777332,0.75,0.820809,115,187,160,0.843356,0.764045,1,1,0.764045,0.820809,0.788571,157,0.98125
+google/gemma-2-9b-it,Gemma-2-9B,nonliteral,"0,1,2,3",4,672,144.25,141,148,0.828536,0.792683,0.874172,123,173,146,0.855115,0.792683,1,1,0.816456,0.811321,0.792683,136,0.931507
+google/gemma-2-9b-it,Gemma-2-9B,bystander,"0,1,2,3",4,672,153.75,151,159,0.841787,0.812865,0.87037,134,182,159,0.86671,0.812865,1,1,0.829412,0.812865,0.824561,148,0.930818

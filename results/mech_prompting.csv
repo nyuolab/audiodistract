@@ -1,0 +1,9 @@
+model,model_short,distractor,n,baseline_acc,ignore_acc,cot_acc,ignore_delta_pp,ignore_delta_ci_low,ignore_delta_ci_high,ignore_delta_se,ignore_delta_p,cot_delta_pp,cot_delta_ci_low,cot_delta_ci_high,cot_delta_se,cot_delta_p
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,nonliteral,127,55.1181,57.4803,54.3307,2.3622,-0.787402,6.29921,1.74816,0.375,-0.787402,-3.93701,2.3622,1.7593,1
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,bystander,127,58.2677,59.0551,55.9055,0.787402,-3.93701,5.51181,2.36117,1,-2.3622,-6.29921,1.5748,2.0727,0.453125
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,nonliteral,127,47.2441,47.2441,41.7323,0,-3.93701,3.93701,1.92873,1,-5.51181,-11.0236,0,2.79657,0.0922852
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,bystander,127,47.2441,51.1811,43.3071,3.93701,0.787402,7.87402,1.72568,0.0625,-3.93701,-8.66142,0.787402,2.58804,0.226562
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,nonliteral,127,40.1575,43.3071,39.3701,3.14961,-1.5748,8.66142,2.47425,0.34375,-0.787402,-5.51181,3.93701,2.36117,1
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,bystander,127,41.7323,44.8819,40.1575,3.14961,-0.787402,7.87402,2.2095,0.289062,-1.5748,-7.08661,3.14961,2.72406,0.774414
+google/gemma-2-9b-it,Gemma-2-9B,nonliteral,127,48.0315,48.0315,48.0315,0,-2.3622,2.3622,1.11355,1,0,-2.3622,2.3622,1.11355,1
+google/gemma-2-9b-it,Gemma-2-9B,bystander,127,53.5433,52.7559,52.7559,-0.787402,-3.93701,2.3622,1.7593,1,-0.787402,-3.93701,1.5748,1.36203,1

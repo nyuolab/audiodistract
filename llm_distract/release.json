@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "paper": "https://arxiv.org/abs/2610.08585",
+  "datasets": {
+    "notes": {
+      "repo_id": "NYU-OLAB/MedDistractNotes",
+      "revision": "46a1097065218bbffacae1d481fb3058a227f17e"
+    },
+    "audio": {
+      "repo_id": "NYU-OLAB/MedDistractAudio",
+      "revision": "bcef38c2bc8404d52a2c66a799be778e28216102"
+    }
+  }
+}

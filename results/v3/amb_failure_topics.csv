@@ -1,0 +1,91 @@
+distractor_type,topic,n,incorporated,misattributed,acted_on
+bystander,type 2 diabetes medication change,56,0.714286,0.321429,0.0714286
+bystander,anxiety counselling,72,0.708333,0.305556,0.152778
+bystander,asthma inhaler switch,64,0.59375,0.28125,0.03125
+bystander,insomnia treatment,72,0.694444,0.277778,0.0833333
+bystander,basal cell skin cancer removal,64,0.828125,0.25,0.171875
+bystander,grief counselling,72,0.694444,0.236111,0.0555556
+bystander,psoriasis treatment,64,0.578125,0.234375,0.046875
+bystander,ear tubes,40,0.75,0.225,0.05
+bystander,vitamin D deficiency,56,0.553571,0.214286,0.0714286
+bystander,thyroid medication adjustment,48,0.5,0.208333,0.0208333
+bystander,LASIK,40,0.525,0.2,0.05
+bystander,ADHD medication,64,0.796875,0.1875,0.078125
+bystander,concussion from a bike fall,64,0.65625,0.1875,0.046875
+bystander,cyst removal,64,0.546875,0.1875,0.015625
+bystander,gout flare,48,0.6875,0.1875,0.0833333
+bystander,thyroid nodule removal,56,0.696429,0.178571,0.0178571
+bystander,bladder sling surgery,64,0.546875,0.171875,0.046875
+bystander,eczema cream,64,0.625,0.171875,0.125
+bystander,deviated septum repair,72,0.527778,0.166667,0.0277778
+bystander,haemorrhoid surgery,72,0.458333,0.166667,0.0277778
+bystander,sleep apnoea machine,72,0.527778,0.166667,0.125
+bystander,migraine treatment,64,0.328125,0.15625,0.03125
+bystander,wart freezing,64,0.765625,0.15625,0.109375
+bystander,reflux medication,72,0.611111,0.152778,0.0833333
+bystander,iron deficiency anaemia,64,0.6875,0.140625,0.0625
+bystander,Bell's palsy,72,0.416667,0.138889,0.0138889
+bystander,colonoscopy with polyp removal,72,0.472222,0.138889,0.0972222
+bystander,nasal polyp surgery,72,0.527778,0.138889,0.125
+bystander,atrial fibrillation ablation,80,0.5375,0.1375,0.1125
+bystander,blood pressure medication change,80,0.5875,0.1375,0.0375
+bystander,IUD fitting,56,0.410714,0.125,0.0535714
+bystander,blood donation,64,0.46875,0.125,0.03125
+bystander,endometriosis treatment,48,0.625,0.125,0.0208333
+bystander,enlarged prostate medication,64,0.5625,0.125,0.046875
+bystander,kidney stone,64,0.421875,0.125,0.015625
+bystander,pacemaker,80,0.475,0.125,0.025
+bystander,plantar fasciitis,104,0.394231,0.115385,0.0192308
+bystander,gallbladder removal,80,0.5,0.1125,0.0125
+bystander,lithotripsy,64,0.453125,0.109375,0.015625
+bystander,fibroid surgery,48,0.5625,0.104167,0.0416667
+bystander,sciatica,168,0.458333,0.10119,0.0238095
+bystander,hearing aid fitting,40,0.475,0.1,0.025
+bystander,heart valve repair,80,0.45,0.1,0.0625
+bystander,vocal cord nodule,72,0.569444,0.0972222,0.0694444
+bystander,vasectomy,64,0.484375,0.09375,0.0625
+bystander,appendectomy,72,0.583333,0.0833333,0.0972222
+bystander,collapsed lung after rib fracture,72,0.5,0.0833333,0.0416667
+bystander,pinched nerve in the neck,72,0.5,0.0833333,0.0416667
+bystander,coronary stent,80,0.4625,0.075,0.025
+bystander,root canal,40,0.6,0.075,0.075
+bystander,varicose vein surgery,80,0.55,0.075,0.05
+bystander,hip replacement,96,0.322917,0.0729167,0.0416667
+bystander,hernia repair,72,0.652778,0.0694444,0.0555556
+bystander,benign lymph node biopsy,64,0.484375,0.0625,0.015625
+bystander,mole removal,64,0.71875,0.0625,0.09375
+bystander,pregnancy nausea,48,0.770833,0.0625,0.0833333
+bystander,rotator cuff tear,96,0.40625,0.0625,0.0416667
+bystander,carpal tunnel surgery,72,0.416667,0.0555556,0.0416667
+bystander,bunion surgery,96,0.291667,0.0520833,0
+bystander,whiplash,96,0.239583,0.0520833,0.0208333
+bystander,wrist fracture,96,0.260417,0.0520833,0.0208333
+bystander,cataract surgery,40,0.5,0.05,0.05
+bystander,tonsillectomy,40,0.275,0.05,0
+bystander,knee replacement,96,0.40625,0.0416667,0.0416667
+bystander,frozen shoulder,96,0.239583,0.03125,0.0208333
+bystander,meniscus tear,96,0.40625,0.03125,0.0833333
+nonliteral,a laptop with 'chronic fatigue',320,0.528125,0.284375,0.0125
+nonliteral,a sourdough 'going into labour',104,0.548077,0.25,0.00961538
+nonliteral,a sourdough starter 'in remission',240,0.504167,0.241667,0.0208333
+nonliteral,a car with an 'arrhythmia',96,0.46875,0.21875,0.0104167
+nonliteral,a video game called Outbreak,304,0.355263,0.210526,0.00657895
+nonliteral,a garden 'in shock' after frost,96,0.354167,0.1875,0.0208333
+nonliteral,the film Contagion,224,0.303571,0.183036,0.00446429
+nonliteral,a coffee shop called Delirium,144,0.388889,0.180556,0.0138889
+nonliteral,a racehorse named Palpitation,96,0.458333,0.166667,0.0104167
+nonliteral,the album Hysteria,88,0.306818,0.147727,0
+nonliteral,the band The Strokes,160,0.26875,0.14375,0
+nonliteral,a stock market 'stroke',152,0.197368,0.138158,0
+nonliteral,the zodiac sign Cancer,176,0.386364,0.136364,0
+nonliteral,a novel with a 'fractured' plot,240,0.216667,0.129167,0.00416667
+nonliteral,a football team's 'hernia' of a defence,400,0.275,0.12,0
+nonliteral,a plant nursery called Colic,240,0.383333,0.1125,0.00833333
+nonliteral,a bakery called Sweet Tooth Cavity,80,0.2625,0.1,0
+nonliteral,a rowing boat named Cataract,80,0.45,0.1,0.0125
+nonliteral,a cat named Lupus,368,0.30163,0.0978261,0.00271739
+nonliteral,a band called Kidney Stone,320,0.26875,0.09375,0
+nonliteral,the film Concussion,288,0.177083,0.09375,0.00347222
+nonliteral,a sailboat named Vertigo,144,0.347222,0.0833333,0.0138889
+nonliteral,a horse named Migraine,56,0.142857,0.0714286,0
+nonliteral,a puppy named Tremor,192,0.322917,0.0677083,0

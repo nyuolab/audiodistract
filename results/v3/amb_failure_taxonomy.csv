@@ -1,0 +1,146 @@
+model_short,distractor_type,outcome,failure_mode,n
+Claude Fable 5.1,bystander,acted_on,family_history_inflation,3
+Claude Fable 5.1,bystander,acted_on,inferred_concern,5
+Claude Fable 5.1,bystander,acted_on,pathologised_conversation,1
+Claude Fable 5.1,bystander,misattributed,family_history_inflation,1
+Claude Fable 5.1,bystander,misattributed,inferred_concern,1
+Claude Fable 5.1,bystander,misattributed,recorded_as_patient_activity,2
+Claude Fable 5.1,nonliteral,acted_on,family_history_inflation,1
+Claude Fable 5.1,nonliteral,acted_on,other,1
+Claude Fable 5.1,nonliteral,acted_on,pathologised_conversation,1
+Claude Fable 5.1,nonliteral,misattributed,literalised_remark,7
+Claude Fable 5.1,nonliteral,misattributed,pathologised_conversation,5
+Claude Fable 5.1,nonliteral,misattributed,recorded_as_patient_activity,7
+Claude Opus 5,bystander,acted_on,family_history_inflation,12
+Claude Opus 5,bystander,acted_on,inferred_concern,11
+Claude Opus 5,bystander,acted_on,literalised_remark,1
+Claude Opus 5,bystander,acted_on,other,4
+Claude Opus 5,bystander,acted_on,pathologised_conversation,9
+Claude Opus 5,bystander,acted_on,recorded_as_patient_activity,1
+Claude Opus 5,bystander,acted_on,substituted_history,16
+Claude Opus 5,bystander,misattributed,family_history_inflation,2
+Claude Opus 5,bystander,misattributed,inferred_concern,3
+Claude Opus 5,bystander,misattributed,other,1
+Claude Opus 5,bystander,misattributed,recorded_as_patient_activity,4
+Claude Opus 5,bystander,misattributed,substituted_history,1
+Claude Opus 5,nonliteral,acted_on,family_history_inflation,1
+Claude Opus 5,nonliteral,acted_on,other,1
+Claude Opus 5,nonliteral,acted_on,pathologised_conversation,7
+Claude Opus 5,nonliteral,acted_on,recorded_as_patient_activity,1
+Claude Opus 5,nonliteral,acted_on,substituted_history,1
+Claude Opus 5,nonliteral,misattributed,family_history_inflation,2
+Claude Opus 5,nonliteral,misattributed,inferred_concern,4
+Claude Opus 5,nonliteral,misattributed,literalised_remark,9
+Claude Opus 5,nonliteral,misattributed,other,1
+Claude Opus 5,nonliteral,misattributed,pathologised_conversation,9
+Claude Opus 5,nonliteral,misattributed,recorded_as_patient_activity,17
+GPT-5.4,bystander,acted_on,other,2
+GPT-5.4,bystander,acted_on,pathologised_conversation,1
+GPT-5.4,bystander,misattributed,substituted_history,2
+GPT-5.4,nonliteral,misattributed,pathologised_conversation,1
+GPT-5.6 Sol,bystander,misattributed,family_history_inflation,1
+GPT-5.6 Sol,bystander,misattributed,literalised_remark,1
+GPT-5.6 Sol,bystander,misattributed,other,1
+GPT-5.6 Sol,bystander,misattributed,recorded_as_patient_activity,1
+GPT-5.6 Sol,bystander,misattributed,substituted_history,4
+GPT-5.6 Sol,nonliteral,misattributed,pathologised_conversation,3
+Gemma-2-9B,bystander,acted_on,family_history_inflation,2
+Gemma-2-9B,bystander,acted_on,inferred_concern,2
+Gemma-2-9B,bystander,acted_on,literalised_remark,1
+Gemma-2-9B,bystander,acted_on,other,8
+Gemma-2-9B,bystander,acted_on,pathologised_conversation,2
+Gemma-2-9B,bystander,misattributed,family_history_inflation,6
+Gemma-2-9B,bystander,misattributed,inferred_concern,6
+Gemma-2-9B,bystander,misattributed,literalised_remark,7
+Gemma-2-9B,bystander,misattributed,other,11
+Gemma-2-9B,bystander,misattributed,pathologised_conversation,8
+Gemma-2-9B,bystander,misattributed,recorded_as_patient_activity,3
+Gemma-2-9B,bystander,misattributed,substituted_history,12
+Gemma-2-9B,nonliteral,acted_on,literalised_remark,1
+Gemma-2-9B,nonliteral,misattributed,family_history_inflation,10
+Gemma-2-9B,nonliteral,misattributed,inferred_concern,2
+Gemma-2-9B,nonliteral,misattributed,literalised_remark,36
+Gemma-2-9B,nonliteral,misattributed,other,5
+Gemma-2-9B,nonliteral,misattributed,pathologised_conversation,13
+Gemma-2-9B,nonliteral,misattributed,recorded_as_patient_activity,4
+Gemma-2-9B,nonliteral,misattributed,substituted_history,11
+Llama-3.1-8B,bystander,acted_on,family_history_inflation,4
+Llama-3.1-8B,bystander,acted_on,inferred_concern,2
+Llama-3.1-8B,bystander,acted_on,literalised_remark,2
+Llama-3.1-8B,bystander,acted_on,other,14
+Llama-3.1-8B,bystander,acted_on,substituted_history,3
+Llama-3.1-8B,bystander,misattributed,family_history_inflation,14
+Llama-3.1-8B,bystander,misattributed,inferred_concern,10
+Llama-3.1-8B,bystander,misattributed,literalised_remark,8
+Llama-3.1-8B,bystander,misattributed,other,45
+Llama-3.1-8B,bystander,misattributed,pathologised_conversation,15
+Llama-3.1-8B,bystander,misattributed,recorded_as_patient_activity,2
+Llama-3.1-8B,bystander,misattributed,substituted_history,63
+Llama-3.1-8B,nonliteral,acted_on,literalised_remark,1
+Llama-3.1-8B,nonliteral,acted_on,other,1
+Llama-3.1-8B,nonliteral,misattributed,inferred_concern,1
+Llama-3.1-8B,nonliteral,misattributed,literalised_remark,26
+Llama-3.1-8B,nonliteral,misattributed,other,11
+Llama-3.1-8B,nonliteral,misattributed,pathologised_conversation,26
+Llama-3.1-8B,nonliteral,misattributed,recorded_as_patient_activity,7
+Llama-3.1-8B,nonliteral,misattributed,substituted_history,60
+Mistral-7B,bystander,acted_on,family_history_inflation,8
+Mistral-7B,bystander,acted_on,inferred_concern,4
+Mistral-7B,bystander,acted_on,literalised_remark,2
+Mistral-7B,bystander,acted_on,other,17
+Mistral-7B,bystander,acted_on,pathologised_conversation,5
+Mistral-7B,bystander,acted_on,substituted_history,28
+Mistral-7B,bystander,misattributed,family_history_inflation,14
+Mistral-7B,bystander,misattributed,inferred_concern,7
+Mistral-7B,bystander,misattributed,literalised_remark,8
+Mistral-7B,bystander,misattributed,other,29
+Mistral-7B,bystander,misattributed,pathologised_conversation,23
+Mistral-7B,bystander,misattributed,recorded_as_patient_activity,1
+Mistral-7B,bystander,misattributed,substituted_history,92
+Mistral-7B,nonliteral,acted_on,literalised_remark,1
+Mistral-7B,nonliteral,acted_on,other,2
+Mistral-7B,nonliteral,acted_on,pathologised_conversation,1
+Mistral-7B,nonliteral,acted_on,recorded_as_patient_activity,1
+Mistral-7B,nonliteral,acted_on,substituted_history,2
+Mistral-7B,nonliteral,misattributed,family_history_inflation,9
+Mistral-7B,nonliteral,misattributed,inferred_concern,3
+Mistral-7B,nonliteral,misattributed,literalised_remark,47
+Mistral-7B,nonliteral,misattributed,other,6
+Mistral-7B,nonliteral,misattributed,pathologised_conversation,76
+Mistral-7B,nonliteral,misattributed,recorded_as_patient_activity,5
+Mistral-7B,nonliteral,misattributed,substituted_history,61
+Qwen2.5-7B,bystander,acted_on,family_history_inflation,2
+Qwen2.5-7B,bystander,acted_on,other,26
+Qwen2.5-7B,bystander,acted_on,pathologised_conversation,6
+Qwen2.5-7B,bystander,acted_on,recorded_as_patient_activity,1
+Qwen2.5-7B,bystander,acted_on,substituted_history,36
+Qwen2.5-7B,bystander,misattributed,family_history_inflation,5
+Qwen2.5-7B,bystander,misattributed,inferred_concern,5
+Qwen2.5-7B,bystander,misattributed,literalised_remark,12
+Qwen2.5-7B,bystander,misattributed,other,33
+Qwen2.5-7B,bystander,misattributed,pathologised_conversation,20
+Qwen2.5-7B,bystander,misattributed,recorded_as_patient_activity,1
+Qwen2.5-7B,bystander,misattributed,substituted_history,102
+Qwen2.5-7B,nonliteral,acted_on,other,2
+Qwen2.5-7B,nonliteral,acted_on,substituted_history,1
+Qwen2.5-7B,nonliteral,misattributed,family_history_inflation,6
+Qwen2.5-7B,nonliteral,misattributed,inferred_concern,3
+Qwen2.5-7B,nonliteral,misattributed,literalised_remark,51
+Qwen2.5-7B,nonliteral,misattributed,other,15
+Qwen2.5-7B,nonliteral,misattributed,pathologised_conversation,49
+Qwen2.5-7B,nonliteral,misattributed,recorded_as_patient_activity,8
+Qwen2.5-7B,nonliteral,misattributed,substituted_history,70
+all,bystander,both,family_history_inflation,74
+all,bystander,both,inferred_concern,56
+all,bystander,both,literalised_remark,42
+all,bystander,both,other,191
+all,bystander,both,pathologised_conversation,90
+all,bystander,both,recorded_as_patient_activity,16
+all,bystander,both,substituted_history,359
+all,nonliteral,both,family_history_inflation,29
+all,nonliteral,both,inferred_concern,13
+all,nonliteral,both,literalised_remark,179
+all,nonliteral,both,other,45
+all,nonliteral,both,pathologised_conversation,191
+all,nonliteral,both,recorded_as_patient_activity,50
+all,nonliteral,both,substituted_history,206

@@ -1,0 +1,75 @@
+cohort,level,name,n_pairs,n_strata,rate_clean,rate_distracted,pooled_delta_pp,pooled_ci_low,pooled_ci_high,unweighted_mean_pp,n_strata_positive,n_strata_zero,n_strata_negative
+open-weight,overall,all,4608,40,0.0868056,50.1085,50.0217,48.6111,51.454,35.9563,31,8,1
+open-weight,model,Gemma-2-9B,1152,10,0.260417,38.8889,38.6285,35.8507,41.5799,26.993,6,3,1
+open-weight,model,Mistral-7B,1152,10,0.0868056,53.2118,53.125,50.2604,55.9028,37.1671,8,2,0
+open-weight,model,Llama-3.1-8B,1152,10,0,46.1806,46.1806,43.3138,48.9583,32.854,7,3,0
+open-weight,model,Qwen2.5-7B,1152,10,0,62.1528,62.1528,59.2882,65.0174,46.811,10,0,0
+open-weight,distractor,nonliteral,2304,20,0.130208,41.1458,41.0156,39.1059,42.9264,29.5057,15,4,1
+open-weight,distractor,bystander,2304,20,0.0434028,59.0712,59.0278,56.9868,61.0677,42.4069,16,4,0
+open-weight,family,ACI-Bench,616,16,0.162338,3.73377,3.57143,2.11039,5.03247,3.0303,7,8,1
+open-weight,family,MTS-Dialog,3992,24,0.0751503,57.2645,57.1894,55.6112,58.7682,57.9069,24,0,0
+open-weight,family x distractor,ACI-Bench | nonliteral,308,8,0.324675,2.5974,2.27273,0.649351,4.22078,2.27273,3,4,1
+open-weight,family x distractor,ACI-Bench | bystander,308,8,0,4.87013,4.87013,2.5974,7.46753,3.78788,4,4,0
+open-weight,family x distractor,MTS-Dialog | nonliteral,1996,12,0.1002,47.0942,46.994,44.8384,49.1483,47.661,12,0,0
+open-weight,family x distractor,MTS-Dialog | bystander,1996,12,0.0501002,67.4349,67.3848,65.3294,69.4401,68.1528,12,0,0
+open-weight,model x distractor,Gemma-2-9B | nonliteral,576,5,0.520833,25.6944,25.1736,21.1806,28.8194,17.7261,3,1,1
+open-weight,model x distractor,Gemma-2-9B | bystander,576,5,0,52.0833,52.0833,47.9167,56.0764,36.2598,3,2,0
+open-weight,model x distractor,Mistral-7B | nonliteral,576,5,0,47.2222,47.2222,43.2292,51.2153,33.4619,4,1,0
+open-weight,model x distractor,Mistral-7B | bystander,576,5,0.173611,59.2014,59.0278,55.0347,62.8472,40.8724,4,1,0
+open-weight,model x distractor,Llama-3.1-8B | nonliteral,576,5,0,35.9375,35.9375,32.1137,39.9306,25.2402,3,2,0
+open-weight,model x distractor,Llama-3.1-8B | bystander,576,5,0,56.4236,56.4236,52.4306,60.2431,40.4679,4,1,0
+open-weight,model x distractor,Qwen2.5-7B | nonliteral,576,5,0,55.7292,55.7292,51.5625,59.7266,41.5946,5,0,0
+open-weight,model x distractor,Qwen2.5-7B | bystander,576,5,0,68.5764,68.5764,64.5833,72.3958,52.0274,5,0,0
+open-weight,model x family x distractor,Gemma-2-9B | ACI-Bench | nonliteral,77,2,1.2987,0,-1.2987,-3.8961,0,-0.757576,0,1,1
+open-weight,model x family x distractor,Gemma-2-9B | ACI-Bench | bystander,77,2,0,0,0,0,0,0,0,2,0
+open-weight,model x family x distractor,Gemma-2-9B | MTS-Dialog | nonliteral,499,3,0.400802,29.6593,29.2585,25.2505,33.4669,30.0486,3,0,0
+open-weight,model x family x distractor,Gemma-2-9B | MTS-Dialog | bystander,499,3,0,60.1202,60.1202,55.7114,64.3287,60.433,3,0,0
+open-weight,model x family x distractor,Mistral-7B | ACI-Bench | nonliteral,77,2,0,3.8961,3.8961,0,9.09091,2.27273,1,1,0
+open-weight,model x family x distractor,Mistral-7B | ACI-Bench | bystander,77,2,0,1.2987,1.2987,0,3.8961,0.757576,1,1,0
+open-weight,model x family x distractor,Mistral-7B | MTS-Dialog | nonliteral,499,3,0,53.9078,53.9078,49.499,58.517,54.2546,3,0,0
+open-weight,model x family x distractor,Mistral-7B | MTS-Dialog | bystander,499,3,0.200401,68.1363,67.9359,63.9228,72.1443,67.6156,3,0,0
+open-weight,model x family x distractor,Llama-3.1-8B | ACI-Bench | nonliteral,77,2,0,0,0,0,0,0,0,2,0
+open-weight,model x family x distractor,Llama-3.1-8B | ACI-Bench | bystander,77,2,0,2.5974,2.5974,0,6.49351,1.51515,1,1,0
+open-weight,model x family x distractor,Llama-3.1-8B | MTS-Dialog | nonliteral,499,3,0,41.483,41.483,37.2745,45.6964,42.067,3,0,0
+open-weight,model x family x distractor,Llama-3.1-8B | MTS-Dialog | bystander,499,3,0,64.7295,64.7295,60.7214,68.9429,66.4363,3,0,0
+open-weight,model x family x distractor,Qwen2.5-7B | ACI-Bench | nonliteral,77,2,0,6.49351,6.49351,1.2987,12.987,7.57576,2,0,0
+open-weight,model x family x distractor,Qwen2.5-7B | ACI-Bench | bystander,77,2,0,15.5844,15.5844,7.79221,23.3766,12.8788,2,0,0
+open-weight,model x family x distractor,Qwen2.5-7B | MTS-Dialog | nonliteral,499,3,0,63.3267,63.3267,59.1182,67.7355,64.2739,3,0,0
+open-weight,model x family x distractor,Qwen2.5-7B | MTS-Dialog | bystander,499,3,0,76.7535,76.7535,73.1463,80.3607,78.1265,3,0,0
+API,overall,all,4608,40,0,34.9826,34.9826,33.6372,36.3281,25.1498,28,12,0
+API,model,GPT-5.4,1152,10,0,8.94097,8.94097,7.29167,10.5035,6.2603,6,4,0
+API,model,GPT-5.6 Sol,1152,10,0,13.1944,13.1944,11.2847,15.1042,9.26583,6,4,0
+API,model,Claude Opus 5,1152,10,0,67.6215,67.6215,64.9284,70.3125,49.4077,9,1,0
+API,model,Claude Fable 5.1,1152,10,0,50.1736,50.1736,47.3069,52.9514,35.6654,7,3,0
+API,distractor,nonliteral,2304,20,0,26.0851,26.0851,24.3056,27.8657,18.2813,13,7,0
+API,distractor,bystander,2304,20,0,43.8802,43.8802,41.8403,45.9201,32.0183,15,5,0
+API,family,ACI-Bench,616,16,0,2.5974,2.5974,1.46104,3.8961,2.46212,4,12,0
+API,family,MTS-Dialog,3992,24,0,39.98,39.98,38.4513,41.4836,40.2749,24,0,0
+API,family x distractor,ACI-Bench | nonliteral,308,8,0,0.649351,0.649351,0,1.62338,0.378788,1,7,0
+API,family x distractor,ACI-Bench | bystander,308,8,0,4.54545,4.54545,2.27273,7.14286,4.54545,3,5,0
+API,family x distractor,MTS-Dialog | nonliteral,1996,12,0,30.01,30.01,28.0561,32.014,30.2163,12,0,0
+API,family x distractor,MTS-Dialog | bystander,1996,12,0,49.9499,49.9499,47.6954,52.2044,50.3335,12,0,0
+API,model x distractor,GPT-5.4 | nonliteral,576,5,0,2.25694,2.25694,1.21528,3.64583,1.80251,3,2,0
+API,model x distractor,GPT-5.4 | bystander,576,5,0,15.625,15.625,12.6736,18.5764,10.7181,3,2,0
+API,model x distractor,GPT-5.6 Sol | nonliteral,576,5,0,4.34028,4.34028,2.60417,6.07639,3.00754,3,2,0
+API,model x distractor,GPT-5.6 Sol | bystander,576,5,0,22.0486,22.0486,18.5764,25.0043,15.5241,3,2,0
+API,model x distractor,Claude Opus 5 | nonliteral,576,5,0,58.8542,58.8542,54.6875,62.8472,41.0729,4,1,0
+API,model x distractor,Claude Opus 5 | bystander,576,5,0,76.3889,76.3889,72.7431,79.6875,57.7425,5,0,0
+API,model x distractor,Claude Fable 5.1 | nonliteral,576,5,0,38.8889,38.8889,34.8958,42.8819,27.2422,3,2,0
+API,model x distractor,Claude Fable 5.1 | bystander,576,5,0,61.4583,61.4583,57.4653,65.2778,44.0885,4,1,0
+API,model x family x distractor,GPT-5.4 | ACI-Bench | nonliteral,77,2,0,0,0,0,0,0,0,2,0
+API,model x family x distractor,GPT-5.4 | ACI-Bench | bystander,77,2,0,0,0,0,0,0,0,2,0
+API,model x family x distractor,GPT-5.4 | MTS-Dialog | nonliteral,499,3,0,2.60521,2.60521,1.40281,4.00802,3.00419,3,0,0
+API,model x family x distractor,GPT-5.4 | MTS-Dialog | bystander,499,3,0,18.0361,18.0361,14.6293,21.4429,17.8635,3,0,0
+API,model x family x distractor,GPT-5.6 Sol | ACI-Bench | nonliteral,77,2,0,0,0,0,0,0,0,2,0
+API,model x family x distractor,GPT-5.6 Sol | ACI-Bench | bystander,77,2,0,0,0,0,0,0,0,2,0
+API,model x family x distractor,GPT-5.6 Sol | MTS-Dialog | nonliteral,499,3,0,5.01002,5.01002,3.20641,7.01403,5.01256,3,0,0
+API,model x family x distractor,GPT-5.6 Sol | MTS-Dialog | bystander,499,3,0,25.4509,25.4509,21.6433,29.2585,25.8735,3,0,0
+API,model x family x distractor,Claude Opus 5 | ACI-Bench | nonliteral,77,2,0,2.5974,2.5974,0,6.49351,1.51515,1,1,0
+API,model x family x distractor,Claude Opus 5 | ACI-Bench | bystander,77,2,0,10.3896,10.3896,3.8961,18.1818,13.6364,2,0,0
+API,model x family x distractor,Claude Opus 5 | MTS-Dialog | nonliteral,499,3,0,67.5351,67.5351,63.5271,71.7435,67.4447,3,0,0
+API,model x family x distractor,Claude Opus 5 | MTS-Dialog | bystander,499,3,0,86.5731,86.5731,83.3667,89.5792,87.1466,3,0,0
+API,model x family x distractor,Claude Fable 5.1 | ACI-Bench | nonliteral,77,2,0,0,0,0,0,0,0,2,0
+API,model x family x distractor,Claude Fable 5.1 | ACI-Bench | bystander,77,2,0,7.79221,7.79221,2.5974,14.2857,4.54545,1,1,0
+API,model x family x distractor,Claude Fable 5.1 | MTS-Dialog | nonliteral,499,3,0,44.8898,44.8898,40.6814,49.499,45.4037,3,0,0
+API,model x family x distractor,Claude Fable 5.1 | MTS-Dialog | bystander,499,3,0,69.7395,69.7395,65.5311,73.9479,70.4506,3,0,0

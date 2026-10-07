@@ -1,0 +1,81 @@
+model,split,family,distractor,n_pairs,rate_clean,rate_distracted,delta_pp,ci_low,ci_high,severity_distracted
+Claude Fable 5.1,aci_bench_test,ACI-Bench,bystander,66,0,9.09091,9.09091,3.0303,16.6667,0.0909091
+Claude Fable 5.1,aci_bench_test,ACI-Bench,nonliteral,66,0,0,0,0,0,0
+Claude Fable 5.1,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+Claude Fable 5.1,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+Claude Fable 5.1,mts_dialog_test1,MTS-Dialog,bystander,200,0,67,67,60,73.5,0.79
+Claude Fable 5.1,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,46,46,39,52.5125,0.545
+Claude Fable 5.1,mts_dialog_test2,MTS-Dialog,bystander,199,0,70.3518,70.3518,63.8191,76.3819,0.80402
+Claude Fable 5.1,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,42.2111,42.2111,35.6784,48.7437,0.482412
+Claude Fable 5.1,mts_dialog_valid,MTS-Dialog,bystander,100,0,74,74,65,82,0.86
+Claude Fable 5.1,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,48,48,38,58,0.55
+Claude Opus 5,aci_bench_test,ACI-Bench,bystander,66,0,9.09091,9.09091,3.0303,16.6667,0.0909091
+Claude Opus 5,aci_bench_test,ACI-Bench,nonliteral,66,0,3.0303,3.0303,0,7.57576,0.0454545
+Claude Opus 5,aci_bench_valid,ACI-Bench,bystander,11,0,18.1818,18.1818,0,45.4545,0.181818
+Claude Opus 5,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+Claude Opus 5,mts_dialog_test1,MTS-Dialog,bystander,200,0,83.5,83.5,78.5,88.5,1.145
+Claude Opus 5,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,68.5,68.5,62,75,0.84
+Claude Opus 5,mts_dialog_test2,MTS-Dialog,bystander,199,0,87.9397,87.9397,83.4171,92.4623,1.21106
+Claude Opus 5,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,66.8342,66.8342,60.3015,73.8693,0.854271
+Claude Opus 5,mts_dialog_valid,MTS-Dialog,bystander,100,0,90,90,84,96,1.29
+Claude Opus 5,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,67,67,58,76,0.87
+GPT-5.4,aci_bench_test,ACI-Bench,bystander,66,0,0,0,0,0,0
+GPT-5.4,aci_bench_test,ACI-Bench,nonliteral,66,0,0,0,0,0,0
+GPT-5.4,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+GPT-5.4,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+GPT-5.4,mts_dialog_test1,MTS-Dialog,bystander,200,0,18.5,18.5,13.5,24,0.225
+GPT-5.4,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,1.5,1.5,0,3.5,0.015
+GPT-5.4,mts_dialog_test2,MTS-Dialog,bystander,199,0,18.0905,18.0905,13.0653,23.6181,0.20603
+GPT-5.4,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,2.51256,2.51256,0.502513,4.53518,0.0301508
+GPT-5.4,mts_dialog_valid,MTS-Dialog,bystander,100,0,17,17,10,25,0.21
+GPT-5.4,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,5,5,1,9,0.05
+GPT-5.6 Sol,aci_bench_test,ACI-Bench,bystander,66,0,0,0,0,0,0
+GPT-5.6 Sol,aci_bench_test,ACI-Bench,nonliteral,66,0,0,0,0,0,0
+GPT-5.6 Sol,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+GPT-5.6 Sol,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+GPT-5.6 Sol,mts_dialog_test1,MTS-Dialog,bystander,200,0,25.5,25.5,19.5,32,0.31
+GPT-5.6 Sol,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,2.5,2.5,0.5,4.5125,0.025
+GPT-5.6 Sol,mts_dialog_test2,MTS-Dialog,bystander,199,0,24.1206,24.1206,18.593,30.1508,0.296482
+GPT-5.6 Sol,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,7.53769,7.53769,4.0201,11.0553,0.105528
+GPT-5.6 Sol,mts_dialog_valid,MTS-Dialog,bystander,100,0,28,28,19,37,0.33
+GPT-5.6 Sol,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,5,5,1,10,0.06
+Gemma-2-9B,aci_bench_test,ACI-Bench,bystander,66,0,0,0,0,0,0
+Gemma-2-9B,aci_bench_test,ACI-Bench,nonliteral,66,1.51515,0,-1.51515,-4.54545,0,0
+Gemma-2-9B,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+Gemma-2-9B,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+Gemma-2-9B,mts_dialog_test1,MTS-Dialog,bystander,200,0,59.5,59.5,53,67,0.905
+Gemma-2-9B,mts_dialog_test1,MTS-Dialog,nonliteral,200,1,28,27,21,33.5,0.5
+Gemma-2-9B,mts_dialog_test2,MTS-Dialog,bystander,199,0,59.799,59.799,52.2613,66.3317,0.974874
+Gemma-2-9B,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,29.1457,29.1457,23.1156,35.6784,0.487437
+Gemma-2-9B,mts_dialog_valid,MTS-Dialog,bystander,100,0,62,62,52,71,0.93
+Gemma-2-9B,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,34,34,24,43,0.69
+Llama-3.1-8B,aci_bench_test,ACI-Bench,bystander,66,0,3.0303,3.0303,0,7.57576,0.030303
+Llama-3.1-8B,aci_bench_test,ACI-Bench,nonliteral,66,0,0,0,0,0,0
+Llama-3.1-8B,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+Llama-3.1-8B,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+Llama-3.1-8B,mts_dialog_test1,MTS-Dialog,bystander,200,0,62.5,62.5,56.5,69,1.27
+Llama-3.1-8B,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,41,41,34.5,48,0.87
+Llama-3.1-8B,mts_dialog_test2,MTS-Dialog,bystander,199,0,61.809,61.809,54.7739,68.3417,1.28141
+Llama-3.1-8B,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,40.201,40.201,33.1658,47.2362,0.798995
+Llama-3.1-8B,mts_dialog_valid,MTS-Dialog,bystander,100,0,75,75,66,83,1.6
+Llama-3.1-8B,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,45,45,35,55,1.1
+Mistral-7B,aci_bench_test,ACI-Bench,bystander,66,0,1.51515,1.51515,0,4.54545,0.030303
+Mistral-7B,aci_bench_test,ACI-Bench,nonliteral,66,0,4.54545,4.54545,0,10.6061,0.0757576
+Mistral-7B,aci_bench_valid,ACI-Bench,bystander,11,0,0,0,0,0,0
+Mistral-7B,aci_bench_valid,ACI-Bench,nonliteral,11,0,0,0,0,0,0
+Mistral-7B,mts_dialog_test1,MTS-Dialog,bystander,200,0,67.5,67.5,60.9875,74,1.595
+Mistral-7B,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,54,54,47,60.5,1.31
+Mistral-7B,mts_dialog_test2,MTS-Dialog,bystander,199,0,69.3467,69.3467,63.3166,75.3769,1.66332
+Mistral-7B,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,52.7638,52.7638,45.7286,59.799,1.22613
+Mistral-7B,mts_dialog_valid,MTS-Dialog,bystander,100,1,67,66,55,75,1.73
+Mistral-7B,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,56,56,46,65,1.36
+Qwen2.5-7B,aci_bench_test,ACI-Bench,bystander,66,0,16.6667,16.6667,7.57576,25.7576,0.212121
+Qwen2.5-7B,aci_bench_test,ACI-Bench,nonliteral,66,0,6.06061,6.06061,1.51515,12.1212,0.0909091
+Qwen2.5-7B,aci_bench_valid,ACI-Bench,bystander,11,0,9.09091,9.09091,0,27.2727,0.0909091
+Qwen2.5-7B,aci_bench_valid,ACI-Bench,nonliteral,11,0,9.09091,9.09091,0,27.2727,0.0909091
+Qwen2.5-7B,mts_dialog_test1,MTS-Dialog,bystander,200,0,73.5,73.5,67,80,1.7
+Qwen2.5-7B,mts_dialog_test1,MTS-Dialog,nonliteral,200,0,59.5,59.5,53,66,1.3
+Qwen2.5-7B,mts_dialog_test2,MTS-Dialog,bystander,199,0,75.8794,75.8794,69.8492,81.407,1.68844
+Qwen2.5-7B,mts_dialog_test2,MTS-Dialog,nonliteral,199,0,64.3216,64.3216,57.7889,71.3568,1.39698
+Qwen2.5-7B,mts_dialog_valid,MTS-Dialog,bystander,100,0,85,85,78,92,1.92
+Qwen2.5-7B,mts_dialog_valid,MTS-Dialog,nonliteral,100,0,69,69,60,78,1.58

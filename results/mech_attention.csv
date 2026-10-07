@@ -1,0 +1,9 @@
+model,model_short,distractor,n_items,n_interference_heads,n_other_heads,interference_mass,other_mass,ratio
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,bystander,127,56,728,0.0119281,0.012717,0.93796
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,nonliteral,127,58,726,0.0201854,0.0140988,1.43171
+google/gemma-2-9b-it,Gemma-2-9B,bystander,127,159,513,0.0200482,0.0139228,1.43996
+google/gemma-2-9b-it,Gemma-2-9B,nonliteral,127,146,526,0.020422,0.0149843,1.36289
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,bystander,127,15,1009,0.0179676,0.0082323,2.18257
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,nonliteral,127,17,1007,0.0226779,0.010014,2.26462
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,bystander,127,160,864,0.028255,0.014442,1.95645
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,nonliteral,127,143,881,0.0257219,0.0132927,1.93503

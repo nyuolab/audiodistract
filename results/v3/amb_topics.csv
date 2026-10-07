@@ -1,0 +1,27 @@
+distractor,keyword,n,pct
+bystander,pneumonia,0,0
+bystander,chest pain,0,0
+bystander,diabetes,7,1.21528
+bystander,seizure,0,0
+bystander,top: sciatica,21,3.64583
+bystander,top: plantar fasciitis,13,2.25694
+bystander,top: frozen shoulder,12,2.08333
+bystander,top: hip replacement,12,2.08333
+bystander,top: rotator cuff tear,12,2.08333
+bystander,(unique topic strings),504,
+bystander,(mean inserted characters),266,
+bystander,(mean inserted turns),3.33,
+nonliteral,contagion,28,4.86111
+nonliteral,lupus,46,7.98611
+nonliteral,strokes,20,3.47222
+nonliteral,cancer,22,3.81944
+nonliteral,zodiac,22,3.81944
+nonliteral,horoscope,0,0
+nonliteral,top: a football team's 'hernia' of a defence,50,8.68056
+nonliteral,top: a cat named lupus,46,7.98611
+nonliteral,top: a laptop with 'chronic fatigue',40,6.94444
+nonliteral,top: a band called kidney stone,40,6.94444
+nonliteral,top: a video game called outbreak,38,6.59722
+nonliteral,(unique topic strings),38,
+nonliteral,(mean inserted characters),256,
+nonliteral,(mean inserted turns),3.57,

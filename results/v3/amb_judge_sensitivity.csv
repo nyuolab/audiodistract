@@ -1,0 +1,4 @@
+judge,pooled_delta_pp,pooled_ci_low,pooled_ci_high,unweighted_mean_pp,clean_false_positive_rate_pct,distracted_positive_rate_pct,n_strata_negative,percent_agreement,cohen_kappa,n_notes
+v3 paired (Claude Sonnet 5),50.0217,48.6111,51.454,35.9563,0.0868056,50.1085,1,,,
+v2 single-note (GPT-5.4),18.7934,16.9482,20.5729,7.13575,30.7726,49.566,17,,,
+agreement on distracted notes (v3 vs v2),,,,,,,,97.678,0.95356,4608

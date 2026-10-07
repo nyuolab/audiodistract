@@ -1,0 +1,9 @@
+model,model_short,distractor,n,clean_acc,distracted_acc,drop_pp,drop_ci_low,drop_ci_high,drop_se,drop_p
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,nonliteral,127,66.1417,55.1181,11.0236,5.51181,17.3228,2.99385,0.000518799
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,bystander,127,66.1417,58.2677,7.87402,2.3622,13.3858,2.86214,0.0129395
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,nonliteral,127,57.4803,47.2441,10.2362,2.3622,17.3228,3.83079,0.0146333
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,bystander,127,57.4803,47.2441,10.2362,3.14961,17.3228,3.49213,0.00719738
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,nonliteral,127,54.3307,40.1575,14.1732,7.08661,22.0472,3.81291,0.000533521
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,bystander,127,54.3307,41.7323,12.5984,4.72441,20.4724,4.01376,0.00371917
+google/gemma-2-9b-it,Gemma-2-9B,nonliteral,127,59.0551,48.0315,11.0236,5.51181,17.3228,3.19424,0.00131226
+google/gemma-2-9b-it,Gemma-2-9B,bystander,127,59.0551,53.5433,5.51181,-1.5748,12.5984,3.57503,0.189247

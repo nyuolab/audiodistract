@@ -1,0 +1,161 @@
+model,distractor,section,n_incorporated,share
+Claude Fable 5.1,bystander,Chief complaint / HPI,354,0.039548
+Claude Fable 5.1,bystander,History (PMH/meds/ROS),354,0.00564972
+Claude Fable 5.1,bystander,Family / social history,354,0.019774
+Claude Fable 5.1,bystander,Subjective (other),354,0.881356
+Claude Fable 5.1,bystander,Objective,354,0
+Claude Fable 5.1,bystander,Assessment,354,0.0677966
+Claude Fable 5.1,bystander,Plan,354,0.0508475
+Claude Fable 5.1,bystander,Unsectioned,354,0.0141243
+Claude Fable 5.1,bystander,Assessment or Plan,354,0.10452
+Claude Fable 5.1,bystander,(located anywhere),354,0.963277
+Claude Fable 5.1,nonliteral,Chief complaint / HPI,224,0.0267857
+Claude Fable 5.1,nonliteral,History (PMH/meds/ROS),224,0.00892857
+Claude Fable 5.1,nonliteral,Family / social history,224,0.00446429
+Claude Fable 5.1,nonliteral,Subjective (other),224,0.691964
+Claude Fable 5.1,nonliteral,Objective,224,0.00446429
+Claude Fable 5.1,nonliteral,Assessment,224,0.0491071
+Claude Fable 5.1,nonliteral,Plan,224,0.0267857
+Claude Fable 5.1,nonliteral,Unsectioned,224,0.0223214
+Claude Fable 5.1,nonliteral,Assessment or Plan,224,0.0714286
+Claude Fable 5.1,nonliteral,(located anywhere),224,0.794643
+Claude Opus 5,bystander,Chief complaint / HPI,440,0.218182
+Claude Opus 5,bystander,History (PMH/meds/ROS),440,0.0636364
+Claude Opus 5,bystander,Family / social history,440,0.131818
+Claude Opus 5,bystander,Subjective (other),440,0.538636
+Claude Opus 5,bystander,Objective,440,0.00681818
+Claude Opus 5,bystander,Assessment,440,0.238636
+Claude Opus 5,bystander,Plan,440,0.152273
+Claude Opus 5,bystander,Unsectioned,440,0.00909091
+Claude Opus 5,bystander,Assessment or Plan,440,0.311364
+Claude Opus 5,bystander,(located anywhere),440,0.961364
+Claude Opus 5,nonliteral,Chief complaint / HPI,339,0.153392
+Claude Opus 5,nonliteral,History (PMH/meds/ROS),339,0.0324484
+Claude Opus 5,nonliteral,Family / social history,339,0.0855457
+Claude Opus 5,nonliteral,Subjective (other),339,0.436578
+Claude Opus 5,nonliteral,Objective,339,0.00589971
+Claude Opus 5,nonliteral,Assessment,339,0.0855457
+Claude Opus 5,nonliteral,Plan,339,0.0501475
+Claude Opus 5,nonliteral,Unsectioned,339,0.00884956
+Claude Opus 5,nonliteral,Assessment or Plan,339,0.115044
+Claude Opus 5,nonliteral,(located anywhere),339,0.725664
+GPT-5.4,bystander,Chief complaint / HPI,90,0.0111111
+GPT-5.4,bystander,History (PMH/meds/ROS),90,0
+GPT-5.4,bystander,Family / social history,90,0
+GPT-5.4,bystander,Subjective (other),90,0.955556
+GPT-5.4,bystander,Objective,90,0.0333333
+GPT-5.4,bystander,Assessment,90,0.111111
+GPT-5.4,bystander,Plan,90,0.0333333
+GPT-5.4,bystander,Unsectioned,90,0
+GPT-5.4,bystander,Assessment or Plan,90,0.133333
+GPT-5.4,bystander,(located anywhere),90,0.988889
+GPT-5.4,nonliteral,Chief complaint / HPI,13,0
+GPT-5.4,nonliteral,History (PMH/meds/ROS),13,0
+GPT-5.4,nonliteral,Family / social history,13,0
+GPT-5.4,nonliteral,Subjective (other),13,0.461538
+GPT-5.4,nonliteral,Objective,13,0
+GPT-5.4,nonliteral,Assessment,13,0
+GPT-5.4,nonliteral,Plan,13,0.0769231
+GPT-5.4,nonliteral,Unsectioned,13,0
+GPT-5.4,nonliteral,Assessment or Plan,13,0.0769231
+GPT-5.4,nonliteral,(located anywhere),13,0.538462
+GPT-5.6 Sol,bystander,Chief complaint / HPI,127,0.015748
+GPT-5.6 Sol,bystander,History (PMH/meds/ROS),127,0
+GPT-5.6 Sol,bystander,Family / social history,127,0
+GPT-5.6 Sol,bystander,Subjective (other),127,0.874016
+GPT-5.6 Sol,bystander,Objective,127,0
+GPT-5.6 Sol,bystander,Assessment,127,0.0551181
+GPT-5.6 Sol,bystander,Plan,127,0.00787402
+GPT-5.6 Sol,bystander,Unsectioned,127,0.0393701
+GPT-5.6 Sol,bystander,Assessment or Plan,127,0.0551181
+GPT-5.6 Sol,bystander,(located anywhere),127,0.937008
+GPT-5.6 Sol,nonliteral,Chief complaint / HPI,25,0
+GPT-5.6 Sol,nonliteral,History (PMH/meds/ROS),25,0
+GPT-5.6 Sol,nonliteral,Family / social history,25,0
+GPT-5.6 Sol,nonliteral,Subjective (other),25,0.56
+GPT-5.6 Sol,nonliteral,Objective,25,0
+GPT-5.6 Sol,nonliteral,Assessment,25,0.04
+GPT-5.6 Sol,nonliteral,Plan,25,0
+GPT-5.6 Sol,nonliteral,Unsectioned,25,0
+GPT-5.6 Sol,nonliteral,Assessment or Plan,25,0.04
+GPT-5.6 Sol,nonliteral,(located anywhere),25,0.6
+Gemma-2-9B,bystander,Chief complaint / HPI,300,0
+Gemma-2-9B,bystander,History (PMH/meds/ROS),300,0
+Gemma-2-9B,bystander,Family / social history,300,0
+Gemma-2-9B,bystander,Subjective (other),300,0.903333
+Gemma-2-9B,bystander,Objective,300,0.00666667
+Gemma-2-9B,bystander,Assessment,300,0.07
+Gemma-2-9B,bystander,Plan,300,0.0366667
+Gemma-2-9B,bystander,Unsectioned,300,0
+Gemma-2-9B,bystander,Assessment or Plan,300,0.09
+Gemma-2-9B,bystander,(located anywhere),300,0.906667
+Gemma-2-9B,nonliteral,Chief complaint / HPI,148,0
+Gemma-2-9B,nonliteral,History (PMH/meds/ROS),148,0
+Gemma-2-9B,nonliteral,Family / social history,148,0
+Gemma-2-9B,nonliteral,Subjective (other),148,0.844595
+Gemma-2-9B,nonliteral,Objective,148,0
+Gemma-2-9B,nonliteral,Assessment,148,0.0743243
+Gemma-2-9B,nonliteral,Plan,148,0.0405405
+Gemma-2-9B,nonliteral,Unsectioned,148,0
+Gemma-2-9B,nonliteral,Assessment or Plan,148,0.0945946
+Gemma-2-9B,nonliteral,(located anywhere),148,0.844595
+Llama-3.1-8B,bystander,Chief complaint / HPI,325,0.667692
+Llama-3.1-8B,bystander,History (PMH/meds/ROS),325,0
+Llama-3.1-8B,bystander,Family / social history,325,0
+Llama-3.1-8B,bystander,Subjective (other),325,0.2
+Llama-3.1-8B,bystander,Objective,325,0.00307692
+Llama-3.1-8B,bystander,Assessment,325,0.341538
+Llama-3.1-8B,bystander,Plan,325,0.187692
+Llama-3.1-8B,bystander,Unsectioned,325,0
+Llama-3.1-8B,bystander,Assessment or Plan,325,0.415385
+Llama-3.1-8B,bystander,(located anywhere),325,0.941538
+Llama-3.1-8B,nonliteral,Chief complaint / HPI,207,0.642512
+Llama-3.1-8B,nonliteral,History (PMH/meds/ROS),207,0
+Llama-3.1-8B,nonliteral,Family / social history,207,0
+Llama-3.1-8B,nonliteral,Subjective (other),207,0.130435
+Llama-3.1-8B,nonliteral,Objective,207,0.00483092
+Llama-3.1-8B,nonliteral,Assessment,207,0.207729
+Llama-3.1-8B,nonliteral,Plan,207,0.120773
+Llama-3.1-8B,nonliteral,Unsectioned,207,0
+Llama-3.1-8B,nonliteral,Assessment or Plan,207,0.241546
+Llama-3.1-8B,nonliteral,(located anywhere),207,0.806763
+Mistral-7B,bystander,Chief complaint / HPI,341,0
+Mistral-7B,bystander,History (PMH/meds/ROS),341,0
+Mistral-7B,bystander,Family / social history,341,0
+Mistral-7B,bystander,Subjective (other),341,0.88563
+Mistral-7B,bystander,Objective,341,0.0146628
+Mistral-7B,bystander,Assessment,341,0.592375
+Mistral-7B,bystander,Plan,341,0.41349
+Mistral-7B,bystander,Unsectioned,341,0
+Mistral-7B,bystander,Assessment or Plan,341,0.692082
+Mistral-7B,bystander,(located anywhere),341,0.953079
+Mistral-7B,nonliteral,Chief complaint / HPI,272,0
+Mistral-7B,nonliteral,History (PMH/meds/ROS),272,0
+Mistral-7B,nonliteral,Family / social history,272,0
+Mistral-7B,nonliteral,Subjective (other),272,0.805147
+Mistral-7B,nonliteral,Objective,272,0.00735294
+Mistral-7B,nonliteral,Assessment,272,0.338235
+Mistral-7B,nonliteral,Plan,272,0.194853
+Mistral-7B,nonliteral,Unsectioned,272,0
+Mistral-7B,nonliteral,Assessment or Plan,272,0.386029
+Mistral-7B,nonliteral,(located anywhere),272,0.823529
+Qwen2.5-7B,bystander,Chief complaint / HPI,395,0.901266
+Qwen2.5-7B,bystander,History (PMH/meds/ROS),395,0
+Qwen2.5-7B,bystander,Family / social history,395,0
+Qwen2.5-7B,bystander,Subjective (other),395,0
+Qwen2.5-7B,bystander,Objective,395,0.0405063
+Qwen2.5-7B,bystander,Assessment,395,0.387342
+Qwen2.5-7B,bystander,Plan,395,0.243038
+Qwen2.5-7B,bystander,Unsectioned,395,0
+Qwen2.5-7B,bystander,Assessment or Plan,395,0.460759
+Qwen2.5-7B,bystander,(located anywhere),395,0.936709
+Qwen2.5-7B,nonliteral,Chief complaint / HPI,321,0.82243
+Qwen2.5-7B,nonliteral,History (PMH/meds/ROS),321,0
+Qwen2.5-7B,nonliteral,Family / social history,321,0
+Qwen2.5-7B,nonliteral,Subjective (other),321,0
+Qwen2.5-7B,nonliteral,Objective,321,0.00623053
+Qwen2.5-7B,nonliteral,Assessment,321,0.174455
+Qwen2.5-7B,nonliteral,Plan,321,0.109034
+Qwen2.5-7B,nonliteral,Unsectioned,321,0
+Qwen2.5-7B,nonliteral,Assessment or Plan,321,0.224299
+Qwen2.5-7B,nonliteral,(located anywhere),321,0.844237

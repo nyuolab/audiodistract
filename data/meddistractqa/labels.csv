@@ -1,0 +1,1274 @@
+item_id,medical_system,medical_competency
+0,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+1,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+2,Renal & Urinary System,Patient Care: Diagnosis
+3,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+4,Nervous System & Special Senses,Patient Care: Management
+5,Cardiovascular System,Patient Care: Management
+6,Renal & Urinary System,Patient Care: Diagnosis
+7,Cardiovascular System,Patient Care: Management
+8,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+9,Musculoskeletal & Skin,Patient Care: Diagnosis
+10,Pregnancy & Childbirth,Patient Care: Diagnosis
+11,Blood & Lymphoreticular,Patient Care: Management
+12,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+13,Cardiovascular System,Medical Knowledge/Scientific Concepts
+14,Multisystem Processes,Medical Knowledge/Scientific Concepts
+15,Gastrointestinal System,Patient Care: Diagnosis
+16,Immune System,Medical Knowledge/Scientific Concepts
+17,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+18,Cardiovascular System,Patient Care: Management
+19,Behavioral Health,Medical Knowledge/Scientific Concepts
+20,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+21,Cardiovascular System,Medical Knowledge/Scientific Concepts
+22,Respiratory System,Medical Knowledge/Scientific Concepts
+23,Respiratory System,Patient Care: Diagnosis
+24,Respiratory System,Patient Care: Management
+25,Immune System,Medical Knowledge/Scientific Concepts
+26,Respiratory System,Patient Care: Diagnosis
+27,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+28,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+29,Musculoskeletal & Skin,Patient Care: Management
+30,Gastrointestinal System,Patient Care: Diagnosis
+31,Cardiovascular System,Medical Knowledge/Scientific Concepts
+32,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+33,Gastrointestinal System,Patient Care: Diagnosis
+34,Endocrine System,Patient Care: Management
+35,Musculoskeletal & Skin,Patient Care: Diagnosis
+36,Nervous System & Special Senses,Patient Care: Diagnosis
+37,Immune System,Medical Knowledge/Scientific Concepts
+38,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+39,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+40,Endocrine System,Patient Care: Diagnosis
+41,Endocrine System,Patient Care: Management
+42,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+43,Cardiovascular System,Medical Knowledge/Scientific Concepts
+44,Renal & Urinary System,Patient Care: Diagnosis
+45,Multisystem Processes,Patient Care: Management
+46,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+47,Cardiovascular System,Patient Care: Diagnosis
+48,Pregnancy & Childbirth,Patient Care: Management
+49,Respiratory System,Medical Knowledge/Scientific Concepts
+50,Multisystem Processes,Medical Knowledge/Scientific Concepts
+51,Endocrine System,Medical Knowledge/Scientific Concepts
+52,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+53,Nervous System & Special Senses,Patient Care: Management
+54,Behavioral Health,Patient Care: Diagnosis
+55,Musculoskeletal & Skin,Patient Care: Diagnosis
+56,Behavioral Health,Medical Knowledge/Scientific Concepts
+57,Immune System,Medical Knowledge/Scientific Concepts
+58,Blood & Lymphoreticular,Patient Care: Diagnosis
+59,Behavioral Health,Patient Care: Diagnosis
+60,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+61,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+62,Pregnancy & Childbirth,Patient Care: Diagnosis
+63,Renal & Urinary System,Patient Care: Management
+64,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+65,Musculoskeletal & Skin,Patient Care: Diagnosis
+66,Communication Skills,"Professionalism, Including Legal and Ethical Issues"
+67,Endocrine System,Medical Knowledge/Scientific Concepts
+68,Gastrointestinal System,Patient Care: Management
+69,Gastrointestinal System,Patient Care: Management
+70,Gastrointestinal System,Patient Care: Diagnosis
+71,Cardiovascular System,Patient Care: Diagnosis
+72,Gastrointestinal System,Patient Care: Management
+73,Endocrine System,Patient Care: Management
+74,Musculoskeletal & Skin,Patient Care: Diagnosis
+75,Human Development,Medical Knowledge/Scientific Concepts
+76,Renal & Urinary System,Patient Care: Management
+77,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+78,Cardiovascular System,Patient Care: Diagnosis
+79,Cardiovascular System,Patient Care: Management
+80,Respiratory System,Medical Knowledge/Scientific Concepts
+81,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+82,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+83,Musculoskeletal & Skin,Patient Care: Diagnosis
+84,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+85,Cardiovascular System,Patient Care: Diagnosis
+86,Renal & Urinary System,Patient Care: Diagnosis
+87,Cardiovascular System,Patient Care: Management
+88,Cardiovascular System,Patient Care: Diagnosis
+89,Endocrine System,Patient Care: Management
+90,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+91,Cardiovascular System,Medical Knowledge/Scientific Concepts
+92,Behavioral Health,Patient Care: Diagnosis
+93,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+94,Cardiovascular System,Patient Care: Diagnosis
+95,Renal & Urinary System,Patient Care: Management
+96,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+97,Immune System,Medical Knowledge/Scientific Concepts
+98,Musculoskeletal & Skin,Patient Care: Management
+99,Behavioral Health,Medical Knowledge/Scientific Concepts
+100,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+101,Nervous System & Special Senses,Patient Care: Management
+102,Pregnancy & Childbirth,Patient Care: Management
+103,Endocrine System,Patient Care: Diagnosis
+104,Cardiovascular System,Patient Care: Diagnosis
+105,Behavioral Health,Patient Care: Diagnosis
+106,Respiratory System,Patient Care: Management
+107,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+108,Musculoskeletal & Skin,Patient Care: Management
+109,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+110,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+111,Respiratory System,Patient Care: Management
+112,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+113,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+114,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+115,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+116,Multisystem Processes,Medical Knowledge/Scientific Concepts
+117,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+118,Respiratory System,Patient Care: Diagnosis
+119,Respiratory System,Patient Care: Management
+120,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+121,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+122,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+123,Blood & Lymphoreticular,Patient Care: Diagnosis
+124,Endocrine System,Medical Knowledge/Scientific Concepts
+125,Respiratory System,Patient Care: Management
+126,Nervous System & Special Senses,Patient Care: Diagnosis
+127,Immune System,Medical Knowledge/Scientific Concepts
+128,Musculoskeletal & Skin,Patient Care: Diagnosis
+129,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+130,Gastrointestinal System,Patient Care: Diagnosis
+131,Endocrine System,Medical Knowledge/Scientific Concepts
+132,Gastrointestinal System,Patient Care: Diagnosis
+133,Cardiovascular System,Patient Care: Diagnosis
+134,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+135,Immune System,Medical Knowledge/Scientific Concepts
+136,Gastrointestinal System,Patient Care: Diagnosis
+137,Endocrine System,Patient Care: Management
+138,Renal & Urinary System,Patient Care: Management
+139,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+140,Pregnancy & Childbirth,Patient Care: Management
+141,Endocrine System,Patient Care: Diagnosis
+142,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+143,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+144,Endocrine System,Patient Care: Management
+145,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+146,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+147,Behavioral Health,Patient Care: Management
+148,Nervous System & Special Senses,Patient Care: Diagnosis
+149,Immune System,Medical Knowledge/Scientific Concepts
+150,Respiratory System,Patient Care: Management
+151,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+152,Immune System,Medical Knowledge/Scientific Concepts
+153,Behavioral Health,Medical Knowledge/Scientific Concepts
+154,Musculoskeletal & Skin,Patient Care: Diagnosis
+155,Behavioral Health,Patient Care: Diagnosis
+156,Behavioral Health,Patient Care: Management
+157,Multisystem Processes,Medical Knowledge/Scientific Concepts
+158,Endocrine System,Patient Care: Management
+159,Renal & Urinary System,Patient Care: Diagnosis
+160,Immune System,Medical Knowledge/Scientific Concepts
+161,Immune System,Medical Knowledge/Scientific Concepts
+162,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+163,Nervous System & Special Senses,Patient Care: Diagnosis
+164,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+165,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+166,Respiratory System,Medical Knowledge/Scientific Concepts
+167,Cardiovascular System,Patient Care: Diagnosis
+168,Gastrointestinal System,Patient Care: Management
+169,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+170,Nervous System & Special Senses,Patient Care: Diagnosis
+171,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+172,Behavioral Health,Patient Care: Management
+173,Endocrine System,Medical Knowledge/Scientific Concepts
+174,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+175,Respiratory System,Patient Care: Management
+176,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+177,Musculoskeletal & Skin,Patient Care: Diagnosis
+178,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+179,Renal & Urinary System,Patient Care: Diagnosis
+180,Blood & Lymphoreticular,Patient Care: Diagnosis
+181,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+182,Human Development,Medical Knowledge/Scientific Concepts
+183,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+184,Behavioral Health,Patient Care: Management
+185,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+186,Multisystem Processes,Medical Knowledge/Scientific Concepts
+187,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+188,Musculoskeletal & Skin,Patient Care: Diagnosis
+189,Behavioral Health,Patient Care: Diagnosis
+190,Behavioral Health,Patient Care: Management
+191,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+192,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+193,Immune System,Medical Knowledge/Scientific Concepts
+194,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+195,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+196,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+197,Renal & Urinary System,Patient Care: Diagnosis
+198,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+199,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+200,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+201,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+202,Endocrine System,Medical Knowledge/Scientific Concepts
+203,Multisystem Processes,Patient Care: Management
+204,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+205,Immune System,Medical Knowledge/Scientific Concepts
+206,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+207,Renal & Urinary System,Patient Care: Management
+208,Immune System,Medical Knowledge/Scientific Concepts
+209,Musculoskeletal & Skin,Patient Care: Diagnosis
+210,Multisystem Processes,Medical Knowledge/Scientific Concepts
+211,Blood & Lymphoreticular,Patient Care: Diagnosis
+212,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+213,Gastrointestinal System,Patient Care: Diagnosis
+214,Endocrine System,Patient Care: Diagnosis
+215,Renal & Urinary System,Patient Care: Diagnosis
+216,Renal & Urinary System,Patient Care: Diagnosis
+217,Pregnancy & Childbirth,Patient Care: Management
+218,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+219,Multisystem Processes,Medical Knowledge/Scientific Concepts
+220,Respiratory System,Medical Knowledge/Scientific Concepts
+221,Pregnancy & Childbirth,Patient Care: Management
+222,Endocrine System,Medical Knowledge/Scientific Concepts
+223,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+224,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+225,Musculoskeletal & Skin,Patient Care: Diagnosis
+226,Blood & Lymphoreticular,Patient Care: Management
+227,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+228,Multisystem Processes,Patient Care: Diagnosis
+229,Endocrine System,Patient Care: Management
+230,Cardiovascular System,Patient Care: Diagnosis
+231,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+232,Gastrointestinal System,Patient Care: Management
+233,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+234,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+235,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+236,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+237,Endocrine System,Medical Knowledge/Scientific Concepts
+238,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+239,Musculoskeletal & Skin,Patient Care: Diagnosis
+240,Respiratory System,Medical Knowledge/Scientific Concepts
+241,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+242,Human Development,Medical Knowledge/Scientific Concepts
+243,Cardiovascular System,Patient Care: Management
+244,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+245,Respiratory System,Patient Care: Management
+246,Cardiovascular System,Patient Care: Diagnosis
+247,Immune System,Patient Care: Management
+248,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+249,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+250,Behavioral Health,Patient Care: Management
+251,Renal & Urinary System,Patient Care: Management
+252,Nervous System & Special Senses,Patient Care: Management
+253,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+254,Musculoskeletal & Skin,Patient Care: Management
+255,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+256,Musculoskeletal & Skin,Patient Care: Diagnosis
+257,Multisystem Processes,Medical Knowledge/Scientific Concepts
+258,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+259,Multisystem Processes,Medical Knowledge/Scientific Concepts
+260,Gastrointestinal System,Patient Care: Management
+261,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+262,Endocrine System,Medical Knowledge/Scientific Concepts
+263,Behavioral Health,Patient Care: Management
+264,Cardiovascular System,Medical Knowledge/Scientific Concepts
+265,Respiratory System,Patient Care: Diagnosis
+266,Respiratory System,Medical Knowledge/Scientific Concepts
+267,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+268,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+269,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+270,Nervous System & Special Senses,Patient Care: Diagnosis
+271,Pregnancy & Childbirth,Patient Care: Diagnosis
+272,Immune System,Medical Knowledge/Scientific Concepts
+273,Gastrointestinal System,Patient Care: Diagnosis
+274,Musculoskeletal & Skin,Patient Care: Diagnosis
+275,Cardiovascular System,Medical Knowledge/Scientific Concepts
+276,Blood & Lymphoreticular,Patient Care: Management
+277,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+278,Respiratory System,Patient Care: Management
+279,Nervous System & Special Senses,Patient Care: Management
+280,Behavioral Health,Patient Care: Management
+281,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+282,Behavioral Health,Patient Care: Diagnosis
+283,Respiratory System,Patient Care: Diagnosis
+284,Cardiovascular System,Patient Care: Management
+285,Endocrine System,Patient Care: Diagnosis
+286,Pregnancy & Childbirth,Patient Care: Diagnosis
+287,Respiratory System,Patient Care: Management
+288,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+289,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+290,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+291,Immune System,Medical Knowledge/Scientific Concepts
+292,Cardiovascular System,Medical Knowledge/Scientific Concepts
+293,Immune System,Patient Care: Management
+294,Respiratory System,Medical Knowledge/Scientific Concepts
+295,Endocrine System,Medical Knowledge/Scientific Concepts
+296,Musculoskeletal & Skin,Patient Care: Diagnosis
+297,Endocrine System,Patient Care: Management
+298,Endocrine System,Medical Knowledge/Scientific Concepts
+299,Cardiovascular System,Medical Knowledge/Scientific Concepts
+300,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+301,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+302,Multisystem Processes,Medical Knowledge/Scientific Concepts
+303,Renal & Urinary System,Patient Care: Diagnosis
+304,Respiratory System,Medical Knowledge/Scientific Concepts
+305,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+306,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+307,Communication Skills,"Professionalism, Including Legal and Ethical Issues"
+308,Cardiovascular System,Medical Knowledge/Scientific Concepts
+309,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+310,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+311,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+312,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+313,Behavioral Health,Medical Knowledge/Scientific Concepts
+314,Immune System,Medical Knowledge/Scientific Concepts
+315,Musculoskeletal & Skin,Patient Care: Diagnosis
+316,Behavioral Health,Patient Care: Management
+317,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+318,Behavioral Health,Patient Care: Diagnosis
+319,Behavioral Health,Patient Care: Diagnosis
+320,Gastrointestinal System,Patient Care: Management
+321,Cardiovascular System,Patient Care: Management
+322,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+323,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+324,Gastrointestinal System,Patient Care: Management
+325,Renal & Urinary System,Patient Care: Diagnosis
+326,Musculoskeletal & Skin,Patient Care: Diagnosis
+327,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+328,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+329,Nervous System & Special Senses,Patient Care: Management
+330,Respiratory System,Medical Knowledge/Scientific Concepts
+331,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+332,Cardiovascular System,Medical Knowledge/Scientific Concepts
+333,Multisystem Processes,Patient Care: Management
+334,Endocrine System,Patient Care: Management
+335,Cardiovascular System,Medical Knowledge/Scientific Concepts
+336,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+337,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+338,Behavioral Health,Patient Care: Management
+339,Behavioral Health,Patient Care: Management
+340,Nervous System & Special Senses,Patient Care: Management
+341,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+342,Respiratory System,Patient Care: Management
+343,Renal & Urinary System,Patient Care: Diagnosis
+344,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+345,Immune System,Patient Care: Management
+346,Behavioral Health,Medical Knowledge/Scientific Concepts
+347,Endocrine System,Medical Knowledge/Scientific Concepts
+348,Behavioral Health,Patient Care: Management
+349,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+350,Multisystem Processes,Patient Care: Management
+351,Behavioral Health,Patient Care: Diagnosis
+352,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+353,Blood & Lymphoreticular,Patient Care: Diagnosis
+354,Gastrointestinal System,Patient Care: Diagnosis
+355,Pregnancy & Childbirth,Patient Care: Management
+356,Behavioral Health,Medical Knowledge/Scientific Concepts
+357,Behavioral Health,Medical Knowledge/Scientific Concepts
+358,Musculoskeletal & Skin,Patient Care: Management
+359,Musculoskeletal & Skin,Patient Care: Diagnosis
+360,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+361,Endocrine System,Patient Care: Management
+362,Multisystem Processes,Medical Knowledge/Scientific Concepts
+363,Endocrine System,Patient Care: Diagnosis
+364,Behavioral Health,Patient Care: Management
+365,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+366,Cardiovascular System,Medical Knowledge/Scientific Concepts
+367,Pregnancy & Childbirth,Patient Care: Management
+368,Renal & Urinary System,Patient Care: Diagnosis
+369,Human Development,Medical Knowledge/Scientific Concepts
+370,Respiratory System,Medical Knowledge/Scientific Concepts
+371,Blood & Lymphoreticular,Patient Care: Management
+372,Respiratory System,Patient Care: Diagnosis
+373,Nervous System & Special Senses,Patient Care: Diagnosis
+374,Respiratory System,Patient Care: Diagnosis
+375,Blood & Lymphoreticular,Patient Care: Management
+376,Immune System,Patient Care: Diagnosis
+377,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+378,Gastrointestinal System,Patient Care: Diagnosis
+379,Cardiovascular System,Patient Care: Diagnosis
+380,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+381,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+382,Behavioral Health,Patient Care: Management
+383,Immune System,Patient Care: Management
+384,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+385,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+386,Blood & Lymphoreticular,Patient Care: Diagnosis
+387,Respiratory System,Medical Knowledge/Scientific Concepts
+388,Gastrointestinal System,Patient Care: Management
+389,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+390,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+391,Cardiovascular System,Patient Care: Management
+392,Respiratory System,Patient Care: Diagnosis
+393,Pregnancy & Childbirth,Patient Care: Management
+394,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+395,Respiratory System,Patient Care: Management
+396,Endocrine System,Medical Knowledge/Scientific Concepts
+397,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+398,Respiratory System,Medical Knowledge/Scientific Concepts
+399,Multisystem Processes,Medical Knowledge/Scientific Concepts
+400,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+401,Renal & Urinary System,Patient Care: Management
+402,Behavioral Health,Medical Knowledge/Scientific Concepts
+403,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+404,Human Development,Medical Knowledge/Scientific Concepts
+405,Cardiovascular System,Medical Knowledge/Scientific Concepts
+406,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+407,Cardiovascular System,Medical Knowledge/Scientific Concepts
+408,Gastrointestinal System,Patient Care: Management
+409,Immune System,Medical Knowledge/Scientific Concepts
+410,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+411,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+412,Renal & Urinary System,Patient Care: Management
+413,Gastrointestinal System,Patient Care: Management
+414,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+415,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+416,Immune System,Medical Knowledge/Scientific Concepts
+417,Endocrine System,Patient Care: Diagnosis
+418,Blood & Lymphoreticular,Patient Care: Management
+419,Blood & Lymphoreticular,Patient Care: Management
+420,Human Development,Patient Care: Diagnosis
+421,Cardiovascular System,Patient Care: Management
+422,Respiratory System,Medical Knowledge/Scientific Concepts
+423,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+424,Gastrointestinal System,Patient Care: Diagnosis
+425,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+426,Multisystem Processes,Medical Knowledge/Scientific Concepts
+427,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+428,Musculoskeletal & Skin,Patient Care: Management
+429,Gastrointestinal System,Patient Care: Management
+430,Cardiovascular System,Medical Knowledge/Scientific Concepts
+431,Nervous System & Special Senses,Patient Care: Diagnosis
+432,Nervous System & Special Senses,Patient Care: Management
+433,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+434,Nervous System & Special Senses,Patient Care: Management
+435,Nervous System & Special Senses,Patient Care: Management
+436,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+437,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+438,Cardiovascular System,Medical Knowledge/Scientific Concepts
+439,Musculoskeletal & Skin,Patient Care: Management
+440,Nervous System & Special Senses,Patient Care: Management
+441,Endocrine System,Medical Knowledge/Scientific Concepts
+442,Behavioral Health,Medical Knowledge/Scientific Concepts
+443,Multisystem Processes,Patient Care: Diagnosis
+444,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+445,Cardiovascular System,Patient Care: Diagnosis
+446,Cardiovascular System,Medical Knowledge/Scientific Concepts
+447,Cardiovascular System,Medical Knowledge/Scientific Concepts
+448,Cardiovascular System,Patient Care: Management
+449,Endocrine System,Medical Knowledge/Scientific Concepts
+450,Endocrine System,Medical Knowledge/Scientific Concepts
+451,Cardiovascular System,Medical Knowledge/Scientific Concepts
+452,Respiratory System,Medical Knowledge/Scientific Concepts
+453,Cardiovascular System,Patient Care: Diagnosis
+454,Endocrine System,Medical Knowledge/Scientific Concepts
+455,Nervous System & Special Senses,Patient Care: Diagnosis
+456,Pregnancy & Childbirth,Patient Care: Diagnosis
+457,Gastrointestinal System,Patient Care: Diagnosis
+458,Cardiovascular System,Medical Knowledge/Scientific Concepts
+459,Musculoskeletal & Skin,Patient Care: Management
+460,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+461,Renal & Urinary System,Patient Care: Diagnosis
+462,Respiratory System,Patient Care: Management
+463,Respiratory System,Patient Care: Management
+464,Behavioral Health,Patient Care: Diagnosis
+465,Renal & Urinary System,Patient Care: Diagnosis
+466,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+467,Immune System,Medical Knowledge/Scientific Concepts
+468,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+469,Respiratory System,Patient Care: Diagnosis
+470,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+471,Endocrine System,Medical Knowledge/Scientific Concepts
+472,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+473,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+474,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+475,Cardiovascular System,Patient Care: Management
+476,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+477,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+478,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+479,Cardiovascular System,Medical Knowledge/Scientific Concepts
+480,Endocrine System,Medical Knowledge/Scientific Concepts
+481,Endocrine System,Medical Knowledge/Scientific Concepts
+482,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+483,Gastrointestinal System,Patient Care: Management
+484,Musculoskeletal & Skin,Patient Care: Diagnosis
+485,Gastrointestinal System,Patient Care: Management
+486,Respiratory System,Patient Care: Management
+487,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+488,Immune System,Medical Knowledge/Scientific Concepts
+489,Respiratory System,Medical Knowledge/Scientific Concepts
+490,Endocrine System,Medical Knowledge/Scientific Concepts
+491,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+492,Respiratory System,Medical Knowledge/Scientific Concepts
+493,Respiratory System,Medical Knowledge/Scientific Concepts
+494,Pregnancy & Childbirth,Patient Care: Diagnosis
+495,Cardiovascular System,Medical Knowledge/Scientific Concepts
+496,Endocrine System,Medical Knowledge/Scientific Concepts
+497,Nervous System & Special Senses,Patient Care: Diagnosis
+498,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+499,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+500,Gastrointestinal System,Patient Care: Diagnosis
+501,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+502,Endocrine System,Patient Care: Management
+503,Cardiovascular System,Medical Knowledge/Scientific Concepts
+504,Nervous System & Special Senses,Patient Care: Management
+505,Multisystem Processes,Medical Knowledge/Scientific Concepts
+506,Nervous System & Special Senses,Patient Care: Diagnosis
+507,Respiratory System,Patient Care: Management
+508,Behavioral Health,Patient Care: Diagnosis
+509,Nervous System & Special Senses,Patient Care: Diagnosis
+510,Communication Skills,Communication
+511,Cardiovascular System,Patient Care: Management
+512,Endocrine System,Patient Care: Management
+513,Musculoskeletal & Skin,Patient Care: Diagnosis
+514,Immune System,Medical Knowledge/Scientific Concepts
+515,Cardiovascular System,Medical Knowledge/Scientific Concepts
+516,Cardiovascular System,Patient Care: Management
+517,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+518,Blood & Lymphoreticular,Patient Care: Diagnosis
+519,Multisystem Processes,Patient Care: Management
+520,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+521,Cardiovascular System,Patient Care: Management
+522,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+523,Gastrointestinal System,Patient Care: Diagnosis
+524,Immune System,Medical Knowledge/Scientific Concepts
+525,Blood & Lymphoreticular,Patient Care: Diagnosis
+526,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+527,Blood & Lymphoreticular,Patient Care: Diagnosis
+528,Multisystem Processes,Patient Care: Management
+529,Nervous System & Special Senses,Patient Care: Diagnosis
+530,Nervous System & Special Senses,Patient Care: Diagnosis
+531,Endocrine System,Patient Care: Management
+532,Behavioral Health,Medical Knowledge/Scientific Concepts
+533,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+534,Cardiovascular System,Medical Knowledge/Scientific Concepts
+535,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+536,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+537,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+538,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+539,Respiratory System,Medical Knowledge/Scientific Concepts
+540,Behavioral Health,Medical Knowledge/Scientific Concepts
+541,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+542,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+543,Respiratory System,Patient Care: Diagnosis
+544,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+545,Musculoskeletal & Skin,Patient Care: Diagnosis
+546,Respiratory System,Patient Care: Diagnosis
+547,Nervous System & Special Senses,Patient Care: Diagnosis
+548,Immune System,Patient Care: Management
+549,Endocrine System,Medical Knowledge/Scientific Concepts
+550,Renal & Urinary System,Patient Care: Diagnosis
+551,Endocrine System,Medical Knowledge/Scientific Concepts
+552,Gastrointestinal System,Patient Care: Management
+553,Endocrine System,Patient Care: Management
+554,Behavioral Health,Patient Care: Diagnosis
+555,Behavioral Health,Patient Care: Management
+556,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+557,Multisystem Processes,Patient Care: Diagnosis
+558,Musculoskeletal & Skin,Patient Care: Diagnosis
+559,Behavioral Health,Medical Knowledge/Scientific Concepts
+560,Cardiovascular System,Medical Knowledge/Scientific Concepts
+561,Multisystem Processes,Medical Knowledge/Scientific Concepts
+562,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+563,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+564,Behavioral Health,Patient Care: Management
+565,Blood & Lymphoreticular,Patient Care: Management
+566,Cardiovascular System,Medical Knowledge/Scientific Concepts
+567,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+568,Gastrointestinal System,Patient Care: Diagnosis
+569,Multisystem Processes,Patient Care: Management
+570,Musculoskeletal & Skin,Patient Care: Management
+571,Respiratory System,Patient Care: Diagnosis
+572,Musculoskeletal & Skin,Patient Care: Management
+573,Cardiovascular System,Medical Knowledge/Scientific Concepts
+574,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+575,Human Development,Medical Knowledge/Scientific Concepts
+576,Renal & Urinary System,Patient Care: Diagnosis
+577,Cardiovascular System,Patient Care: Diagnosis
+578,Behavioral Health,Patient Care: Management
+579,Endocrine System,Patient Care: Diagnosis
+580,Behavioral Health,Patient Care: Diagnosis
+581,Endocrine System,Medical Knowledge/Scientific Concepts
+582,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+583,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+584,Respiratory System,Patient Care: Diagnosis
+585,Cardiovascular System,Patient Care: Diagnosis
+586,Endocrine System,Medical Knowledge/Scientific Concepts
+587,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+588,Renal & Urinary System,Patient Care: Management
+589,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+590,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+591,Pregnancy & Childbirth,Patient Care: Diagnosis
+592,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+593,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+594,Gastrointestinal System,Patient Care: Diagnosis
+595,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+596,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+597,Multisystem Processes,Medical Knowledge/Scientific Concepts
+598,Pregnancy & Childbirth,Patient Care: Diagnosis
+599,Behavioral Health,Medical Knowledge/Scientific Concepts
+600,Immune System,Medical Knowledge/Scientific Concepts
+601,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+602,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+603,Musculoskeletal & Skin,Patient Care: Diagnosis
+604,Cardiovascular System,Medical Knowledge/Scientific Concepts
+605,Behavioral Health,Patient Care: Diagnosis
+606,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+607,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+608,Behavioral Health,Medical Knowledge/Scientific Concepts
+609,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+610,Pregnancy & Childbirth,Patient Care: Management
+611,Cardiovascular System,Patient Care: Diagnosis
+612,Multisystem Processes,Medical Knowledge/Scientific Concepts
+613,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+614,Cardiovascular System,Patient Care: Management
+615,Nervous System & Special Senses,Patient Care: Management
+616,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+617,Multisystem Processes,Medical Knowledge/Scientific Concepts
+618,Behavioral Health,Patient Care: Management
+619,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+620,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+621,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+622,Nervous System & Special Senses,Patient Care: Diagnosis
+623,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+624,Multisystem Processes,Patient Care: Management
+625,Immune System,Medical Knowledge/Scientific Concepts
+626,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+627,Pregnancy & Childbirth,Patient Care: Management
+628,Gastrointestinal System,Patient Care: Diagnosis
+629,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+630,Respiratory System,Medical Knowledge/Scientific Concepts
+631,Blood & Lymphoreticular,Patient Care: Diagnosis
+632,Cardiovascular System,Patient Care: Diagnosis
+633,Blood & Lymphoreticular,Patient Care: Diagnosis
+634,Renal & Urinary System,Patient Care: Management
+635,Cardiovascular System,Patient Care: Diagnosis
+636,Cardiovascular System,Patient Care: Management
+637,Behavioral Health,Medical Knowledge/Scientific Concepts
+638,Gastrointestinal System,"Systems-based Practice, Including Patient Safety"
+639,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+640,Multisystem Processes,Patient Care: Management
+641,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+642,Respiratory System,Medical Knowledge/Scientific Concepts
+643,Communication Skills,Communication
+644,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+645,Endocrine System,Medical Knowledge/Scientific Concepts
+646,Multisystem Processes,Medical Knowledge/Scientific Concepts
+647,Immune System,Medical Knowledge/Scientific Concepts
+648,Multisystem Processes,Medical Knowledge/Scientific Concepts
+649,Renal & Urinary System,Patient Care: Management
+650,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+651,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+652,Cardiovascular System,Patient Care: Management
+653,Gastrointestinal System,Patient Care: Diagnosis
+654,Renal & Urinary System,Patient Care: Diagnosis
+655,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+656,Gastrointestinal System,Patient Care: Diagnosis
+657,Cardiovascular System,Patient Care: Management
+658,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+659,Respiratory System,Patient Care: Management
+660,Behavioral Health,Patient Care: Diagnosis
+661,Cardiovascular System,Medical Knowledge/Scientific Concepts
+662,Respiratory System,Patient Care: Diagnosis
+663,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+664,Blood & Lymphoreticular,Patient Care: Diagnosis
+665,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+666,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+667,Musculoskeletal & Skin,Patient Care: Management
+668,Musculoskeletal & Skin,Patient Care: Diagnosis
+669,Gastrointestinal System,Patient Care: Management
+670,Multisystem Processes,Medical Knowledge/Scientific Concepts
+671,Musculoskeletal & Skin,Patient Care: Diagnosis
+672,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+673,Blood & Lymphoreticular,Patient Care: Management
+674,Endocrine System,Medical Knowledge/Scientific Concepts
+675,Respiratory System,Medical Knowledge/Scientific Concepts
+676,Respiratory System,Medical Knowledge/Scientific Concepts
+677,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+678,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+679,Endocrine System,Medical Knowledge/Scientific Concepts
+680,Gastrointestinal System,Patient Care: Diagnosis
+681,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+682,Respiratory System,Patient Care: Management
+683,Respiratory System,Medical Knowledge/Scientific Concepts
+684,Immune System,Medical Knowledge/Scientific Concepts
+685,Respiratory System,Medical Knowledge/Scientific Concepts
+686,Multisystem Processes,Medical Knowledge/Scientific Concepts
+687,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+688,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+689,Multisystem Processes,Patient Care: Management
+690,Cardiovascular System,Medical Knowledge/Scientific Concepts
+691,Pregnancy & Childbirth,Patient Care: Management
+692,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+693,Cardiovascular System,Patient Care: Management
+694,Blood & Lymphoreticular,Patient Care: Management
+695,Renal & Urinary System,Patient Care: Diagnosis
+696,Endocrine System,Medical Knowledge/Scientific Concepts
+697,Multisystem Processes,Medical Knowledge/Scientific Concepts
+698,Behavioral Health,Patient Care: Diagnosis
+699,Nervous System & Special Senses,Patient Care: Management
+700,Cardiovascular System,Patient Care: Management
+701,Endocrine System,Medical Knowledge/Scientific Concepts
+702,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+703,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+704,Pregnancy & Childbirth,Patient Care: Management
+705,Renal & Urinary System,Patient Care: Diagnosis
+706,Behavioral Health,Patient Care: Management
+707,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+708,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+709,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+710,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+711,Musculoskeletal & Skin,Patient Care: Diagnosis
+712,Pregnancy & Childbirth,Patient Care: Diagnosis
+713,Endocrine System,Patient Care: Management
+714,Cardiovascular System,Medical Knowledge/Scientific Concepts
+715,Behavioral Health,Patient Care: Diagnosis
+716,Immune System,Medical Knowledge/Scientific Concepts
+717,Endocrine System,Patient Care: Diagnosis
+718,Cardiovascular System,Medical Knowledge/Scientific Concepts
+719,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+720,Endocrine System,Medical Knowledge/Scientific Concepts
+721,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+722,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+723,Multisystem Processes,Medical Knowledge/Scientific Concepts
+724,Nervous System & Special Senses,Patient Care: Management
+725,Gastrointestinal System,Patient Care: Management
+726,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+727,Blood & Lymphoreticular,Patient Care: Diagnosis
+728,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+729,Gastrointestinal System,Patient Care: Diagnosis
+730,Nervous System & Special Senses,Patient Care: Management
+731,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+732,Musculoskeletal & Skin,Patient Care: Management
+733,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+734,Immune System,Medical Knowledge/Scientific Concepts
+735,Endocrine System,Patient Care: Management
+736,Behavioral Health,Patient Care: Diagnosis
+737,Cardiovascular System,Medical Knowledge/Scientific Concepts
+738,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+739,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+740,Endocrine System,Patient Care: Management
+741,Multisystem Processes,Medical Knowledge/Scientific Concepts
+742,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+743,Nervous System & Special Senses,Patient Care: Diagnosis
+744,Nervous System & Special Senses,Patient Care: Management
+745,Renal & Urinary System,Patient Care: Management
+746,Behavioral Health,Medical Knowledge/Scientific Concepts
+747,Multisystem Processes,Patient Care: Management
+748,Endocrine System,Medical Knowledge/Scientific Concepts
+749,Immune System,Patient Care: Management
+750,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+751,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+752,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+753,Respiratory System,Medical Knowledge/Scientific Concepts
+754,Gastrointestinal System,Patient Care: Diagnosis
+755,Pregnancy & Childbirth,Patient Care: Diagnosis
+756,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+757,Multisystem Processes,Patient Care: Diagnosis
+758,Cardiovascular System,Medical Knowledge/Scientific Concepts
+759,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+760,Behavioral Health,Patient Care: Management
+761,Gastrointestinal System,Patient Care: Management
+762,Endocrine System,Patient Care: Management
+763,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+764,Pregnancy & Childbirth,"Professionalism, Including Legal and Ethical Issues"
+765,Respiratory System,Patient Care: Management
+766,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+767,Renal & Urinary System,Patient Care: Diagnosis
+768,Renal & Urinary System,Patient Care: Diagnosis
+769,Nervous System & Special Senses,Patient Care: Management
+770,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+771,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+772,Gastrointestinal System,Patient Care: Management
+773,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+774,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+775,Cardiovascular System,Medical Knowledge/Scientific Concepts
+776,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+777,Musculoskeletal & Skin,Patient Care: Management
+778,Legal/Ethical Issues,"Systems-based Practice, Including Patient Safety"
+779,Cardiovascular System,Medical Knowledge/Scientific Concepts
+780,Endocrine System,Patient Care: Management
+781,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+782,Pregnancy & Childbirth,Patient Care: Diagnosis
+783,Multisystem Processes,Medical Knowledge/Scientific Concepts
+784,Pregnancy & Childbirth,Patient Care: Management
+785,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+786,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+787,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+788,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+789,Cardiovascular System,Medical Knowledge/Scientific Concepts
+790,Respiratory System,Medical Knowledge/Scientific Concepts
+791,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+792,Behavioral Health,Patient Care: Management
+793,Nervous System & Special Senses,Patient Care: Management
+794,Cardiovascular System,Patient Care: Diagnosis
+795,Cardiovascular System,Medical Knowledge/Scientific Concepts
+796,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+797,Immune System,Medical Knowledge/Scientific Concepts
+798,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+799,Cardiovascular System,Medical Knowledge/Scientific Concepts
+800,Multisystem Processes,Patient Care: Management
+801,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+802,Human Development,Medical Knowledge/Scientific Concepts
+803,Nervous System & Special Senses,Patient Care: Management
+804,Nervous System & Special Senses,Patient Care: Management
+805,Renal & Urinary System,Patient Care: Diagnosis
+806,Gastrointestinal System,Patient Care: Diagnosis
+807,Cardiovascular System,Medical Knowledge/Scientific Concepts
+808,Nervous System & Special Senses,Patient Care: Management
+809,Musculoskeletal & Skin,Patient Care: Diagnosis
+810,Blood & Lymphoreticular,Patient Care: Diagnosis
+811,Nervous System & Special Senses,Patient Care: Diagnosis
+812,Respiratory System,Patient Care: Diagnosis
+813,Cardiovascular System,Medical Knowledge/Scientific Concepts
+814,Renal & Urinary System,Patient Care: Management
+815,Renal & Urinary System,Patient Care: Diagnosis
+816,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+817,Legal/Ethical Issues,"Systems-based Practice, Including Patient Safety"
+818,Pregnancy & Childbirth,Patient Care: Management
+819,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+820,Blood & Lymphoreticular,Patient Care: Diagnosis
+821,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+822,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+823,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+824,Immune System,Medical Knowledge/Scientific Concepts
+825,Renal & Urinary System,Patient Care: Management
+826,Nervous System & Special Senses,Patient Care: Management
+827,Endocrine System,Medical Knowledge/Scientific Concepts
+828,Gastrointestinal System,Patient Care: Diagnosis
+829,Respiratory System,Patient Care: Management
+830,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+831,Musculoskeletal & Skin,Patient Care: Diagnosis
+832,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+833,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+834,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+835,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+836,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+837,Gastrointestinal System,Patient Care: Management
+838,Endocrine System,Patient Care: Diagnosis
+839,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+840,Immune System,Medical Knowledge/Scientific Concepts
+841,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+842,Gastrointestinal System,Patient Care: Diagnosis
+843,Respiratory System,Medical Knowledge/Scientific Concepts
+844,Renal & Urinary System,Patient Care: Management
+845,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+846,Nervous System & Special Senses,Patient Care: Diagnosis
+847,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+848,Musculoskeletal & Skin,Patient Care: Diagnosis
+849,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+850,Renal & Urinary System,Patient Care: Diagnosis
+851,Cardiovascular System,Medical Knowledge/Scientific Concepts
+852,Gastrointestinal System,Patient Care: Management
+853,Behavioral Health,Patient Care: Diagnosis
+854,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+855,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+856,Immune System,Patient Care: Management
+857,Immune System,Medical Knowledge/Scientific Concepts
+858,Endocrine System,Patient Care: Diagnosis
+859,Cardiovascular System,Medical Knowledge/Scientific Concepts
+860,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+861,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+862,Cardiovascular System,Patient Care: Management
+863,Gastrointestinal System,Patient Care: Management
+864,Gastrointestinal System,Patient Care: Management
+865,Respiratory System,Patient Care: Management
+866,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+867,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+868,Cardiovascular System,Patient Care: Management
+869,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+870,Gastrointestinal System,Patient Care: Diagnosis
+871,Renal & Urinary System,Patient Care: Diagnosis
+872,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+873,Pregnancy & Childbirth,Patient Care: Management
+874,Respiratory System,Patient Care: Management
+875,Renal & Urinary System,Patient Care: Management
+876,Nervous System & Special Senses,Patient Care: Management
+877,Respiratory System,Medical Knowledge/Scientific Concepts
+878,Musculoskeletal & Skin,Patient Care: Management
+879,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+880,Cardiovascular System,Medical Knowledge/Scientific Concepts
+881,Respiratory System,Medical Knowledge/Scientific Concepts
+882,Renal & Urinary System,Patient Care: Diagnosis
+883,Immune System,Medical Knowledge/Scientific Concepts
+884,Multisystem Processes,Medical Knowledge/Scientific Concepts
+885,Nervous System & Special Senses,Patient Care: Diagnosis
+886,Renal & Urinary System,Patient Care: Management
+887,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+888,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+889,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+890,Musculoskeletal & Skin,Patient Care: Management
+891,Pregnancy & Childbirth,Patient Care: Management
+892,Cardiovascular System,Medical Knowledge/Scientific Concepts
+893,Musculoskeletal & Skin,Patient Care: Management
+894,Multisystem Processes,Medical Knowledge/Scientific Concepts
+895,Human Development,Medical Knowledge/Scientific Concepts
+896,Behavioral Health,Patient Care: Diagnosis
+897,Renal & Urinary System,Patient Care: Management
+898,Behavioral Health,Patient Care: Diagnosis
+899,Multisystem Processes,Medical Knowledge/Scientific Concepts
+900,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+901,Pregnancy & Childbirth,Patient Care: Management
+902,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+903,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+904,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+905,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+906,Cardiovascular System,Medical Knowledge/Scientific Concepts
+907,Cardiovascular System,Patient Care: Diagnosis
+908,Pregnancy & Childbirth,Patient Care: Management
+909,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+910,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+911,Behavioral Health,Patient Care: Management
+912,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+913,Immune System,Medical Knowledge/Scientific Concepts
+914,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+915,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+916,Cardiovascular System,Medical Knowledge/Scientific Concepts
+917,Behavioral Health,Patient Care: Diagnosis
+918,Renal & Urinary System,Patient Care: Management
+919,Musculoskeletal & Skin,Patient Care: Diagnosis
+920,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+921,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+922,Immune System,Patient Care: Diagnosis
+923,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+924,Musculoskeletal & Skin,Patient Care: Diagnosis
+925,Immune System,Medical Knowledge/Scientific Concepts
+926,Musculoskeletal & Skin,Patient Care: Management
+927,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+928,Immune System,Patient Care: Management
+929,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+930,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+931,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+932,Musculoskeletal & Skin,Patient Care: Diagnosis
+933,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+934,Legal/Ethical Issues,"Systems-based Practice, Including Patient Safety"
+935,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+936,Gastrointestinal System,Patient Care: Diagnosis
+937,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+938,Blood & Lymphoreticular,Patient Care: Diagnosis
+939,Immune System,Patient Care: Diagnosis
+940,Cardiovascular System,Medical Knowledge/Scientific Concepts
+941,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+942,Endocrine System,Patient Care: Management
+943,Cardiovascular System,Medical Knowledge/Scientific Concepts
+944,Multisystem Processes,Patient Care: Management
+945,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+946,Nervous System & Special Senses,Patient Care: Diagnosis
+947,Endocrine System,Medical Knowledge/Scientific Concepts
+948,Cardiovascular System,Patient Care: Management
+949,Respiratory System,Patient Care: Management
+950,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+951,Behavioral Health,Patient Care: Management
+952,Gastrointestinal System,Patient Care: Management
+953,Renal & Urinary System,Patient Care: Diagnosis
+954,Renal & Urinary System,Patient Care: Diagnosis
+955,Cardiovascular System,Patient Care: Diagnosis
+956,Nervous System & Special Senses,Patient Care: Diagnosis
+957,Pregnancy & Childbirth,Patient Care: Management
+958,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+959,Musculoskeletal & Skin,Patient Care: Diagnosis
+960,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+961,Pregnancy & Childbirth,Patient Care: Management
+962,Renal & Urinary System,Patient Care: Management
+963,Cardiovascular System,Medical Knowledge/Scientific Concepts
+964,Nervous System & Special Senses,Patient Care: Management
+965,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+966,Cardiovascular System,Patient Care: Diagnosis
+967,Musculoskeletal & Skin,Patient Care: Management
+968,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+969,Renal & Urinary System,Patient Care: Diagnosis
+970,Behavioral Health,Patient Care: Management
+971,Endocrine System,Medical Knowledge/Scientific Concepts
+972,Pregnancy & Childbirth,Patient Care: Management
+973,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+974,Behavioral Health,Patient Care: Management
+975,Behavioral Health,Medical Knowledge/Scientific Concepts
+976,Pregnancy & Childbirth,Patient Care: Management
+977,Musculoskeletal & Skin,Patient Care: Diagnosis
+978,Respiratory System,Medical Knowledge/Scientific Concepts
+979,Respiratory System,Medical Knowledge/Scientific Concepts
+980,Pregnancy & Childbirth,Patient Care: Diagnosis
+981,Immune System,Medical Knowledge/Scientific Concepts
+982,Respiratory System,Medical Knowledge/Scientific Concepts
+983,Gastrointestinal System,Patient Care: Management
+984,Nervous System & Special Senses,Patient Care: Management
+985,Blood & Lymphoreticular,Patient Care: Diagnosis
+986,Respiratory System,Patient Care: Diagnosis
+987,Multisystem Processes,Medical Knowledge/Scientific Concepts
+988,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+989,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+990,Gastrointestinal System,Patient Care: Diagnosis
+991,Musculoskeletal & Skin,Patient Care: Diagnosis
+992,Behavioral Health,Medical Knowledge/Scientific Concepts
+993,Cardiovascular System,Patient Care: Management
+994,Respiratory System,Medical Knowledge/Scientific Concepts
+995,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+996,Immune System,Medical Knowledge/Scientific Concepts
+997,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+998,Communication Skills,Communication
+999,Nervous System & Special Senses,Patient Care: Management
+1000,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1001,Musculoskeletal & Skin,Patient Care: Diagnosis
+1002,Cardiovascular System,Patient Care: Diagnosis
+1003,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1004,Respiratory System,Patient Care: Management
+1005,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1006,Endocrine System,Medical Knowledge/Scientific Concepts
+1007,Gastrointestinal System,Patient Care: Diagnosis
+1008,Renal & Urinary System,Patient Care: Management
+1009,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1010,Renal & Urinary System,Patient Care: Diagnosis
+1011,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1012,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1013,Musculoskeletal & Skin,Patient Care: Management
+1014,Pregnancy & Childbirth,Patient Care: Management
+1015,Cardiovascular System,Patient Care: Diagnosis
+1016,Blood & Lymphoreticular,Patient Care: Diagnosis
+1017,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1018,Behavioral Health,Patient Care: Diagnosis
+1019,Respiratory System,Patient Care: Diagnosis
+1020,Respiratory System,Medical Knowledge/Scientific Concepts
+1021,Blood & Lymphoreticular,Patient Care: Diagnosis
+1022,Pregnancy & Childbirth,Patient Care: Management
+1023,Musculoskeletal & Skin,Patient Care: Diagnosis
+1024,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1025,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1026,Behavioral Health,Patient Care: Diagnosis
+1027,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1028,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1029,Endocrine System,Patient Care: Diagnosis
+1030,Human Development,Patient Care: Diagnosis
+1031,Renal & Urinary System,Patient Care: Diagnosis
+1032,Musculoskeletal & Skin,Patient Care: Management
+1033,Nervous System & Special Senses,Patient Care: Management
+1034,Respiratory System,Patient Care: Diagnosis
+1035,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1036,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1037,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1038,Behavioral Health,Medical Knowledge/Scientific Concepts
+1039,Nervous System & Special Senses,Patient Care: Management
+1040,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1041,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1042,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1043,Endocrine System,Patient Care: Diagnosis
+1044,Immune System,Medical Knowledge/Scientific Concepts
+1045,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1046,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+1047,Gastrointestinal System,Patient Care: Diagnosis
+1048,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1049,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1050,Gastrointestinal System,Patient Care: Management
+1051,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1052,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1053,Endocrine System,Patient Care: Diagnosis
+1054,Musculoskeletal & Skin,Patient Care: Diagnosis
+1055,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1056,Behavioral Health,Patient Care: Management
+1057,Immune System,Medical Knowledge/Scientific Concepts
+1058,Endocrine System,Medical Knowledge/Scientific Concepts
+1059,Nervous System & Special Senses,Patient Care: Management
+1060,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1061,Endocrine System,Patient Care: Management
+1062,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1063,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1064,Immune System,Patient Care: Diagnosis
+1065,Pregnancy & Childbirth,Patient Care: Management
+1066,Respiratory System,Medical Knowledge/Scientific Concepts
+1067,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1068,Endocrine System,Medical Knowledge/Scientific Concepts
+1069,Multisystem Processes,Patient Care: Diagnosis
+1070,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1071,Nervous System & Special Senses,Patient Care: Management
+1072,Behavioral Health,Medical Knowledge/Scientific Concepts
+1073,Endocrine System,Patient Care: Diagnosis
+1074,Behavioral Health,Patient Care: Management
+1075,Nervous System & Special Senses,Patient Care: Diagnosis
+1076,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+1077,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1078,Cardiovascular System,Patient Care: Management
+1079,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1080,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1081,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1082,Musculoskeletal & Skin,Patient Care: Diagnosis
+1083,Musculoskeletal & Skin,Patient Care: Management
+1084,Respiratory System,Patient Care: Diagnosis
+1085,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1086,Nervous System & Special Senses,Patient Care: Diagnosis
+1087,Cardiovascular System,Patient Care: Diagnosis
+1088,Endocrine System,Patient Care: Management
+1089,Multisystem Processes,Patient Care: Diagnosis
+1090,Human Development,Patient Care: Management
+1091,Cardiovascular System,Patient Care: Management
+1092,Behavioral Health,Patient Care: Diagnosis
+1093,Musculoskeletal & Skin,Patient Care: Management
+1094,Renal & Urinary System,Patient Care: Diagnosis
+1095,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1096,Immune System,Medical Knowledge/Scientific Concepts
+1097,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1098,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1099,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1100,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1101,Behavioral Health,Medical Knowledge/Scientific Concepts
+1102,Gastrointestinal System,Patient Care: Diagnosis
+1103,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1104,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1105,Endocrine System,Patient Care: Diagnosis
+1106,Behavioral Health,Patient Care: Diagnosis
+1107,Respiratory System,Medical Knowledge/Scientific Concepts
+1108,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1109,Nervous System & Special Senses,Patient Care: Management
+1110,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1111,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1112,Behavioral Health,Patient Care: Diagnosis
+1113,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1114,Gastrointestinal System,Patient Care: Diagnosis
+1115,Blood & Lymphoreticular,Patient Care: Management
+1116,Musculoskeletal & Skin,Patient Care: Management
+1117,Respiratory System,Medical Knowledge/Scientific Concepts
+1118,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1119,Musculoskeletal & Skin,Patient Care: Diagnosis
+1120,Pregnancy & Childbirth,Patient Care: Management
+1121,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1122,Cardiovascular System,Patient Care: Management
+1123,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1124,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1125,Renal & Urinary System,Patient Care: Management
+1126,Nervous System & Special Senses,Patient Care: Diagnosis
+1127,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1128,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1129,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+1130,Endocrine System,Patient Care: Management
+1131,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1132,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1133,Immune System,Medical Knowledge/Scientific Concepts
+1134,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1135,Immune System,Medical Knowledge/Scientific Concepts
+1136,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1137,Gastrointestinal System,Patient Care: Management
+1138,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1139,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1140,Immune System,Patient Care: Diagnosis
+1141,Renal & Urinary System,Patient Care: Diagnosis
+1142,Multisystem Processes,Patient Care: Management
+1143,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1144,Endocrine System,Patient Care: Diagnosis
+1145,Pregnancy & Childbirth,Patient Care: Diagnosis
+1146,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+1147,Endocrine System,Patient Care: Management
+1148,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1149,Musculoskeletal & Skin,Patient Care: Management
+1150,Renal & Urinary System,Patient Care: Management
+1151,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1152,Immune System,Medical Knowledge/Scientific Concepts
+1153,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1154,Musculoskeletal & Skin,Patient Care: Diagnosis
+1155,Respiratory System,Medical Knowledge/Scientific Concepts
+1156,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1157,Blood & Lymphoreticular,Patient Care: Management
+1158,Multisystem Processes,Patient Care: Diagnosis
+1159,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1160,Musculoskeletal & Skin,Patient Care: Diagnosis
+1161,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1162,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1163,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1164,Cardiovascular System,Patient Care: Management
+1165,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1166,Behavioral Health,Patient Care: Management
+1167,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1168,Immune System,Medical Knowledge/Scientific Concepts
+1169,Gastrointestinal System,Patient Care: Diagnosis
+1170,Multisystem Processes,Patient Care: Diagnosis
+1171,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1172,Renal & Urinary System,Patient Care: Management
+1173,Gastrointestinal System,Patient Care: Management
+1174,Endocrine System,Patient Care: Diagnosis
+1175,Musculoskeletal & Skin,Patient Care: Diagnosis
+1176,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1177,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1178,Respiratory System,Medical Knowledge/Scientific Concepts
+1179,Nervous System & Special Senses,Patient Care: Diagnosis
+1180,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1181,Endocrine System,Medical Knowledge/Scientific Concepts
+1182,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1183,Multisystem Processes,Patient Care: Management
+1184,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1185,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1186,Musculoskeletal & Skin,Patient Care: Diagnosis
+1187,Multisystem Processes,Patient Care: Management
+1188,Immune System,Medical Knowledge/Scientific Concepts
+1189,Behavioral Health,Patient Care: Diagnosis
+1190,Respiratory System,Medical Knowledge/Scientific Concepts
+1191,Endocrine System,Medical Knowledge/Scientific Concepts
+1192,Behavioral Health,Patient Care: Management
+1193,Immune System,Patient Care: Management
+1194,Respiratory System,Medical Knowledge/Scientific Concepts
+1195,Musculoskeletal & Skin,Patient Care: Diagnosis
+1196,Endocrine System,Patient Care: Management
+1197,Cardiovascular System,Patient Care: Diagnosis
+1198,Legal/Ethical Issues,"Professionalism, Including Legal and Ethical Issues"
+1199,Nervous System & Special Senses,Patient Care: Management
+1200,Cardiovascular System,Patient Care: Management
+1201,Blood & Lymphoreticular,Patient Care: Diagnosis
+1202,Gastrointestinal System,Patient Care: Diagnosis
+1203,Behavioral Health,Medical Knowledge/Scientific Concepts
+1204,Communication Skills,Communication
+1205,Blood & Lymphoreticular,Patient Care: Diagnosis
+1206,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1207,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1208,Immune System,Medical Knowledge/Scientific Concepts
+1209,Behavioral Health,Medical Knowledge/Scientific Concepts
+1210,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1211,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1212,Renal & Urinary System,Patient Care: Management
+1213,Nervous System & Special Senses,Patient Care: Management
+1214,Immune System,Medical Knowledge/Scientific Concepts
+1215,Musculoskeletal & Skin,Patient Care: Management
+1216,Cardiovascular System,Patient Care: Diagnosis
+1217,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1218,Gastrointestinal System,Patient Care: Diagnosis
+1219,Cardiovascular System,Patient Care: Diagnosis
+1220,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1221,Renal & Urinary System,Medical Knowledge/Scientific Concepts
+1222,Respiratory System,Medical Knowledge/Scientific Concepts
+1223,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1224,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1225,Blood & Lymphoreticular,Patient Care: Management
+1226,Endocrine System,Patient Care: Management
+1227,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1228,Endocrine System,Patient Care: Diagnosis
+1229,Pregnancy & Childbirth,Patient Care: Management
+1230,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1231,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+1232,Biostatistics & Epidemiology,Medical Knowledge/Scientific Concepts
+1233,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1234,Renal & Urinary System,Patient Care: Management
+1235,Pregnancy & Childbirth,Medical Knowledge/Scientific Concepts
+1236,Endocrine System,Patient Care: Diagnosis
+1237,Respiratory System,Medical Knowledge/Scientific Concepts
+1238,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1239,Blood & Lymphoreticular,Medical Knowledge/Scientific Concepts
+1240,Multisystem Processes,Medical Knowledge/Scientific Concepts
+1241,Musculoskeletal & Skin,Medical Knowledge/Scientific Concepts
+1242,Pregnancy & Childbirth,Patient Care: Management
+1243,Endocrine System,Patient Care: Diagnosis
+1244,Endocrine System,Patient Care: Management
+1245,Respiratory System,Patient Care: Diagnosis
+1246,Endocrine System,Patient Care: Management
+1247,Respiratory System,Medical Knowledge/Scientific Concepts
+1248,Respiratory System,Patient Care: Management
+1249,Renal & Urinary System,Patient Care: Management
+1250,Immune System,Medical Knowledge/Scientific Concepts
+1251,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1252,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1253,Musculoskeletal & Skin,Patient Care: Diagnosis
+1254,Musculoskeletal & Skin,Patient Care: Diagnosis
+1255,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1256,Renal & Urinary System,Patient Care: Management
+1257,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1258,Cardiovascular System,Patient Care: Diagnosis
+1259,Musculoskeletal & Skin,Patient Care: Management
+1260,Nervous System & Special Senses,Medical Knowledge/Scientific Concepts
+1261,Blood & Lymphoreticular,Patient Care: Management
+1262,Gastrointestinal System,Medical Knowledge/Scientific Concepts
+1263,Nervous System & Special Senses,Patient Care: Management
+1264,Nervous System & Special Senses,Patient Care: Management
+1265,Nervous System & Special Senses,Patient Care: Diagnosis
+1266,Cardiovascular System,Medical Knowledge/Scientific Concepts
+1267,Blood & Lymphoreticular,Patient Care: Diagnosis
+1268,Endocrine System,Medical Knowledge/Scientific Concepts
+1269,Gastrointestinal System,Patient Care: Diagnosis
+1270,Behavioral Health,Patient Care: Management
+1271,Behavioral Health,Patient Care: Diagnosis
+1272,Respiratory System,Patient Care: Diagnosis

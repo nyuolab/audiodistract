@@ -1,0 +1,46 @@
+model_short,distractor_type,severity_v3,n,share
+Claude Fable 5.1,bystander,1,302,0.853107
+Claude Fable 5.1,bystander,2,51,0.144068
+Claude Fable 5.1,bystander,3,1,0.00282486
+Claude Fable 5.1,nonliteral,1,189,0.84375
+Claude Fable 5.1,nonliteral,2,35,0.15625
+Claude Opus 5,bystander,1,283,0.643182
+Claude Opus 5,bystander,2,149,0.338636
+Claude Opus 5,bystander,3,8,0.0181818
+Claude Opus 5,nonliteral,1,266,0.784661
+Claude Opus 5,nonliteral,2,62,0.182891
+Claude Opus 5,nonliteral,3,11,0.0324484
+GPT-5.4,bystander,1,76,0.844444
+GPT-5.4,bystander,2,12,0.133333
+GPT-5.4,bystander,3,2,0.0222222
+GPT-5.4,nonliteral,1,12,0.923077
+GPT-5.4,nonliteral,2,1,0.0769231
+GPT-5.6 Sol,bystander,1,104,0.818898
+GPT-5.6 Sol,bystander,2,21,0.165354
+GPT-5.6 Sol,bystander,3,2,0.015748
+GPT-5.6 Sol,nonliteral,1,18,0.72
+GPT-5.6 Sol,nonliteral,2,7,0.28
+Gemma-2-9B,bystander,1,159,0.53
+Gemma-2-9B,bystander,2,114,0.38
+Gemma-2-9B,bystander,3,27,0.09
+Gemma-2-9B,nonliteral,1,57,0.385135
+Gemma-2-9B,nonliteral,2,64,0.432432
+Gemma-2-9B,nonliteral,3,27,0.182432
+Llama-3.1-8B,bystander,1,71,0.218462
+Llama-3.1-8B,bystander,2,162,0.498462
+Llama-3.1-8B,bystander,3,92,0.283077
+Llama-3.1-8B,nonliteral,1,50,0.241546
+Llama-3.1-8B,nonliteral,2,81,0.391304
+Llama-3.1-8B,nonliteral,3,76,0.36715
+Mistral-7B,bystander,1,44,0.129032
+Mistral-7B,bystander,2,112,0.328446
+Mistral-7B,bystander,3,185,0.542522
+Mistral-7B,nonliteral,1,45,0.165441
+Mistral-7B,nonliteral,2,79,0.290441
+Mistral-7B,nonliteral,3,148,0.544118
+Qwen2.5-7B,bystander,1,67,0.16962
+Qwen2.5-7B,bystander,2,168,0.425316
+Qwen2.5-7B,bystander,3,160,0.405063
+Qwen2.5-7B,nonliteral,1,57,0.17757
+Qwen2.5-7B,nonliteral,2,150,0.46729
+Qwen2.5-7B,nonliteral,3,114,0.35514

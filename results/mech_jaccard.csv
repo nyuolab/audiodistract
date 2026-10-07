@@ -1,0 +1,5 @@
+model,model_short,nonliteral_selected,bystander_selected,overlap,union,jaccard,bystander_subset_of_nonliteral
+meta-llama/Llama-3.1-8B-Instruct,Llama-3.1-8B,17,15,14,18,0.777778,False
+Qwen/Qwen2.5-7B-Instruct,Qwen2.5-7B,58,56,32,82,0.390244,False
+mistralai/Mistral-7B-Instruct-v0.3,Mistral-7B,143,160,125,178,0.702247,False
+google/gemma-2-9b-it,Gemma-2-9B,146,159,117,188,0.62234,False
