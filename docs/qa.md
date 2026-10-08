@@ -1,6 +1,8 @@
 # Clinical reasoning benchmark
 
-[MedDistractQA](https://huggingface.co/datasets/KrithikV/MedDistractQA) is already publicly available. The bundled `data/meddistractqa/meddistractqa_v2.parquet` combines its 1,273 clean MedQA test questions, two frozen distractor sentences per item, answer choices, answer keys and topic/competency labels. It also supplies the inputs used by the head-intervention tools.
+[MedDistractQA](https://huggingface.co/datasets/KrithikV/MedDistractQA) was introduced in [Medical large language models are easily distracted](https://arxiv.org/abs/2504.01201) (2025). AudioDistract reuses that benchmark as a controlled probe for the current paper's mechanistic experiments. Cite the earlier paper when using MedDistractQA.
+
+The bundled `data/meddistractqa/meddistractqa_v2.parquet` combines its 1,273 clean MedQA test questions, two frozen distractor sentences per item, answer choices, answer keys and topic/competency labels. It supplies the inputs used by the head-intervention tools.
 
 ```python
 from llm_distract.meddistractqa.data import load_meddistractqa

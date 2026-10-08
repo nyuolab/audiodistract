@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "Please cite the associated preprint when using this toolkit."
-title: "MedDistract"
+title: "AudioDistract"
 type: software
 version: "1.0.0"
 license: MIT
-repository-code: "https://github.com/nyuolab/llm_distract"
+repository-code: "https://github.com/nyuolab/audiodistract"
 url: "https://arxiv.org/abs/2610.08585"
 authors:
   - family-names: Vishwanath

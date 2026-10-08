@@ -1,14 +1,18 @@
-# MedDistract
+# AudioDistract
 
-Evaluate whether incidental information changes clinical notes and reasoning. MedDistract provides paired clean/distracted benchmarks, note-generation and scoring tools, audio overlays, and attention-head interventions.
+Tools and benchmarks for studying incidental-information contamination in clinical audio and generated notes. AudioDistract provides paired clean/distracted inputs, note-generation and scoring tools, audio overlays, and attention-head interventions.
 
-[Paper](https://arxiv.org/abs/2610.08585) · [MedDistractNotes](https://huggingface.co/datasets/NYU-OLAB/MedDistractNotes) · [MedDistractAudio](https://huggingface.co/datasets/NYU-OLAB/MedDistractAudio) · [MedDistractQA](https://huggingface.co/datasets/KrithikV/MedDistractQA)
+[Paper](https://arxiv.org/abs/2610.08585) · [MedDistractNotes](https://huggingface.co/datasets/NYU-OLAB/MedDistractNotes) · [MedDistractAudio](https://huggingface.co/datasets/NYU-OLAB/MedDistractAudio)
+
+This repository accompanies the clinical documentation and audio study. Its mechanistic experiments reuse [MedDistractQA](https://huggingface.co/datasets/KrithikV/MedDistractQA), introduced in the earlier paper [Medical large language models are easily distracted](https://arxiv.org/abs/2504.01201). The QA benchmark retains its existing name and citation.
 
 ## Install and download
 
 Use Python 3.10 or later. Run commands from this checkout.
 
 ```bash
+git clone https://github.com/nyuolab/audiodistract.git
+cd audiodistract
 python -m venv .venv
 source .venv/bin/activate
 pip install -e .

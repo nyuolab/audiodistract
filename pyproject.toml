@@ -22,6 +22,11 @@ vllm = ["vllm>=0.6"]
 dev = ["pytest>=8", "ruff>=0.5"]
 audio = ["soundfile>=0.12", "torchcodec>=0.2"]
 
+[project.urls]
+Repository = "https://github.com/nyuolab/audiodistract"
+Issues = "https://github.com/nyuolab/audiodistract/issues"
+Paper = "https://arxiv.org/abs/2610.08585"
+
 [tool.setuptools.packages.find]
 include = ["llm_distract*"]
 
